@@ -1,0 +1,1001 @@
+product_id,title,category,brand,price,rating,stock,description
+1,Max Sneakers,Fashion,Max,16770.08,3.7,34,Max Sneakers in category Fashion with rating 3.7
+2,Max Mouse,Electronics,Max,43500.03,3.9,282,Max Mouse in category Electronics with rating 3.9
+3,Ultra Algorithms,Books,Ultra,42526.93,3.4,358,Ultra Algorithms in category Books with rating 3.4
+4,Nova Lamp,Home,Nova,744.56,3.9,486,Nova Lamp in category Home with rating 3.9
+5,SmartLife Monitor,Electronics,SmartLife,42364.33,3.3,282,SmartLife Monitor in category Electronics with rating 3.3
+6,Vision Python Guide,Books,Vision,9295.5,3.7,38,Vision Python Guide in category Books with rating 3.7
+7,Max Lamp,Home,Max,6557.83,3.6,113,Max Lamp in category Home with rating 3.6
+8,Nova Sofa,Home,Nova,45017.84,3.2,187,Nova Sofa in category Home with rating 3.2
+9,Prime Lamp,Home,Prime,22802.68,3.8,264,Prime Lamp in category Home with rating 3.8
+10,Prime Basketball,Sports,Prime,23693.85,4.7,99,Prime Basketball in category Sports with rating 4.7
+11,Vision Monitor,Electronics,Vision,44143.67,4.6,35,Vision Monitor in category Electronics with rating 4.6
+12,Prime Machine Learning,Books,Prime,19317.26,3.7,308,Prime Machine Learning in category Books with rating 3.7
+13,Elite Lamp,Home,Elite,5170.33,3.4,12,Elite Lamp in category Home with rating 3.4
+14,Ultra Smartwatch,Electronics,Ultra,40702.9,4.7,100,Ultra Smartwatch in category Electronics with rating 4.7
+15,Prime Python Guide,Books,Prime,6510.28,4.8,89,Prime Python Guide in category Books with rating 4.8
+16,SmartLife Mixer,Home,SmartLife,4016.74,3.2,83,SmartLife Mixer in category Home with rating 3.2
+17,Ultra DBMS,Books,Ultra,5617.84,4.0,459,Ultra DBMS in category Books with rating 4.0
+18,Max Basketball,Sports,Max,40562.76,3.9,15,Max Basketball in category Sports with rating 3.9
+19,TechPro Cricket Bat,Sports,TechPro,10905.3,4.9,138,TechPro Cricket Bat in category Sports with rating 4.9
+20,Prime Hoodie,Fashion,Prime,38045.55,4.0,107,Prime Hoodie in category Fashion with rating 4.0
+21,Prime Tablet,Electronics,Prime,14351.36,4.9,481,Prime Tablet in category Electronics with rating 4.9
+22,TechPro Tennis Racket,Sports,TechPro,39726.51,4.1,167,TechPro Tennis Racket in category Sports with rating 4.1
+23,Max Monitor,Electronics,Max,8665.56,4.7,64,Max Monitor in category Electronics with rating 4.7
+24,TechPro Machine Learning,Books,TechPro,23906.74,3.1,387,TechPro Machine Learning in category Books with rating 3.1
+25,Vision Python Guide,Books,Vision,24609.11,4.8,212,Vision Python Guide in category Books with rating 4.8
+26,TechPro Headphones,Electronics,TechPro,16979.87,4.6,145,TechPro Headphones in category Electronics with rating 4.6
+27,Prime Python Guide,Books,Prime,18592.86,3.9,313,Prime Python Guide in category Books with rating 3.9
+28,SmartLife Jeans,Fashion,SmartLife,40933.07,3.5,182,SmartLife Jeans in category Fashion with rating 3.5
+29,Prime Tennis Racket,Sports,Prime,23728.09,3.1,500,Prime Tennis Racket in category Sports with rating 3.1
+30,Max Sofa,Home,Max,6397.37,3.5,214,Max Sofa in category Home with rating 3.5
+31,SmartLife Lamp,Home,SmartLife,46262.62,4.0,325,SmartLife Lamp in category Home with rating 4.0
+32,Nova Smartphone,Electronics,Nova,48382.67,3.3,26,Nova Smartphone in category Electronics with rating 3.3
+33,Ultra Sofa,Home,Ultra,43300.9,4.2,267,Ultra Sofa in category Home with rating 4.2
+34,Max Keyboard,Electronics,Max,19859.77,4.3,34,Max Keyboard in category Electronics with rating 4.3
+35,Prime Basketball,Sports,Prime,36219.82,4.3,82,Prime Basketball in category Sports with rating 4.3
+36,TechPro Mouse,Electronics,TechPro,45871.23,3.5,17,TechPro Mouse in category Electronics with rating 3.5
+37,Nova Lamp,Home,Nova,17181.83,4.3,120,Nova Lamp in category Home with rating 4.3
+38,Vision Table,Home,Vision,14940.59,3.2,74,Vision Table in category Home with rating 3.2
+39,SmartLife Vacuum Cleaner,Home,SmartLife,11255.0,4.8,219,SmartLife Vacuum Cleaner in category Home with rating 4.8
+40,TechPro Headphones,Electronics,TechPro,16671.34,3.3,144,TechPro Headphones in category Electronics with rating 3.3
+41,Prime Sneakers,Fashion,Prime,7866.68,3.2,195,Prime Sneakers in category Fashion with rating 3.2
+42,Vision Basketball,Sports,Vision,7352.94,4.6,486,Vision Basketball in category Sports with rating 4.6
+43,Prime Chair,Home,Prime,36403.47,3.8,152,Prime Chair in category Home with rating 3.8
+44,Elite Yoga Mat,Sports,Elite,47931.41,3.7,335,Elite Yoga Mat in category Sports with rating 3.7
+45,Elite Mixer,Home,Elite,27786.75,4.5,24,Elite Mixer in category Home with rating 4.5
+46,Max Keyboard,Electronics,Max,3784.38,3.6,254,Max Keyboard in category Electronics with rating 3.6
+47,Elite Sneakers,Fashion,Elite,5109.05,4.1,363,Elite Sneakers in category Fashion with rating 4.1
+48,Nova Mixer,Home,Nova,27254.79,4.1,416,Nova Mixer in category Home with rating 4.1
+49,Vision DBMS,Books,Vision,40607.27,4.7,439,Vision DBMS in category Books with rating 4.7
+50,Vision DBMS,Books,Vision,36716.59,4.8,46,Vision DBMS in category Books with rating 4.8
+51,Prime Sofa,Home,Prime,29179.79,4.3,188,Prime Sofa in category Home with rating 4.3
+52,TechPro Smartwatch,Electronics,TechPro,2154.68,3.8,230,TechPro Smartwatch in category Electronics with rating 3.8
+53,Nova Tablet,Electronics,Nova,20990.74,3.5,354,Nova Tablet in category Electronics with rating 3.5
+54,Max Jeans,Fashion,Max,30976.59,4.4,458,Max Jeans in category Fashion with rating 4.4
+55,Vision Data Science,Books,Vision,16186.11,4.1,235,Vision Data Science in category Books with rating 4.1
+56,Prime Smartwatch,Electronics,Prime,42687.49,3.1,323,Prime Smartwatch in category Electronics with rating 3.1
+57,SmartLife Data Science,Books,SmartLife,25765.41,4.3,111,SmartLife Data Science in category Books with rating 4.3
+58,Vision Headphones,Electronics,Vision,41916.73,4.9,297,Vision Headphones in category Electronics with rating 4.9
+59,Ultra Data Science,Books,Ultra,10826.7,4.7,221,Ultra Data Science in category Books with rating 4.7
+60,Elite Machine Learning,Books,Elite,4159.06,4.3,61,Elite Machine Learning in category Books with rating 4.3
+61,Prime Tablet,Electronics,Prime,44452.89,4.5,367,Prime Tablet in category Electronics with rating 4.5
+62,Vision Watch,Fashion,Vision,21325.41,4.4,400,Vision Watch in category Fashion with rating 4.4
+63,Nova Vacuum Cleaner,Home,Nova,5830.77,3.5,434,Nova Vacuum Cleaner in category Home with rating 3.5
+64,SmartLife Operating Systems,Books,SmartLife,49668.3,4.4,111,SmartLife Operating Systems in category Books with rating 4.4
+65,Elite Mouse,Electronics,Elite,39515.87,4.2,396,Elite Mouse in category Electronics with rating 4.2
+66,SmartLife Operating Systems,Books,SmartLife,38883.51,3.5,302,SmartLife Operating Systems in category Books with rating 3.5
+67,TechPro Machine Learning,Books,TechPro,23693.0,3.3,261,TechPro Machine Learning in category Books with rating 3.3
+68,TechPro Operating Systems,Books,TechPro,27329.74,3.1,349,TechPro Operating Systems in category Books with rating 3.1
+69,Prime Table,Home,Prime,46738.28,3.2,225,Prime Table in category Home with rating 3.2
+70,Prime Table,Home,Prime,10337.12,3.8,46,Prime Table in category Home with rating 3.8
+71,Prime Tablet,Electronics,Prime,821.17,3.1,281,Prime Tablet in category Electronics with rating 3.1
+72,Vision Chair,Home,Vision,15550.65,4.2,416,Vision Chair in category Home with rating 4.2
+73,Elite Mouse,Electronics,Elite,23938.4,3.9,473,Elite Mouse in category Electronics with rating 3.9
+74,Prime Lamp,Home,Prime,11554.29,3.7,45,Prime Lamp in category Home with rating 3.7
+75,Ultra Operating Systems,Books,Ultra,31968.37,4.1,484,Ultra Operating Systems in category Books with rating 4.1
+76,Prime Vacuum Cleaner,Home,Prime,10538.27,3.6,57,Prime Vacuum Cleaner in category Home with rating 3.6
+77,SmartLife Python Guide,Books,SmartLife,26064.42,3.7,27,SmartLife Python Guide in category Books with rating 3.7
+78,Nova Python Guide,Books,Nova,2166.34,3.1,189,Nova Python Guide in category Books with rating 3.1
+79,Max Yoga Mat,Sports,Max,11284.97,3.2,469,Max Yoga Mat in category Sports with rating 3.2
+80,Vision Vacuum Cleaner,Home,Vision,16425.87,3.2,339,Vision Vacuum Cleaner in category Home with rating 3.2
+81,Prime Tennis Racket,Sports,Prime,7199.5,3.7,25,Prime Tennis Racket in category Sports with rating 3.7
+82,Vision Sneakers,Fashion,Vision,9240.49,4.9,98,Vision Sneakers in category Fashion with rating 4.9
+83,Elite Mixer,Home,Elite,10128.35,4.1,333,Elite Mixer in category Home with rating 4.1
+84,Nova Operating Systems,Books,Nova,18560.78,4.6,209,Nova Operating Systems in category Books with rating 4.6
+85,Nova Operating Systems,Books,Nova,8004.24,3.9,24,Nova Operating Systems in category Books with rating 3.9
+86,Vision Cricket Bat,Sports,Vision,34494.9,3.3,371,Vision Cricket Bat in category Sports with rating 3.3
+87,Prime Operating Systems,Books,Prime,638.89,3.8,465,Prime Operating Systems in category Books with rating 3.8
+88,Vision Gym Gloves,Sports,Vision,4700.82,3.9,313,Vision Gym Gloves in category Sports with rating 3.9
+89,Ultra Tennis Racket,Sports,Ultra,23701.0,3.7,136,Ultra Tennis Racket in category Sports with rating 3.7
+90,Max DBMS,Books,Max,21272.77,3.1,450,Max DBMS in category Books with rating 3.1
+91,Prime DBMS,Books,Prime,44160.02,4.5,338,Prime DBMS in category Books with rating 4.5
+92,Vision Sofa,Home,Vision,20970.39,5.0,232,Vision Sofa in category Home with rating 5.0
+93,Vision Monitor,Electronics,Vision,22021.24,3.6,244,Vision Monitor in category Electronics with rating 3.6
+94,TechPro DBMS,Books,TechPro,12354.14,4.0,286,TechPro DBMS in category Books with rating 4.0
+95,Nova DBMS,Books,Nova,23017.77,3.2,232,Nova DBMS in category Books with rating 3.2
+96,Vision Chair,Home,Vision,8715.54,4.3,461,Vision Chair in category Home with rating 4.3
+97,Prime Cricket Bat,Sports,Prime,41166.12,3.1,250,Prime Cricket Bat in category Sports with rating 3.1
+98,Prime Football,Sports,Prime,20299.81,4.4,364,Prime Football in category Sports with rating 4.4
+99,Prime Tablet,Electronics,Prime,9429.27,3.2,65,Prime Tablet in category Electronics with rating 3.2
+100,Ultra Tennis Racket,Sports,Ultra,39481.67,3.6,129,Ultra Tennis Racket in category Sports with rating 3.6
+101,SmartLife DBMS,Books,SmartLife,15374.92,4.8,216,SmartLife DBMS in category Books with rating 4.8
+102,TechPro Vacuum Cleaner,Home,TechPro,32777.67,4.5,12,TechPro Vacuum Cleaner in category Home with rating 4.5
+103,Ultra Shirt,Fashion,Ultra,14788.87,4.8,425,Ultra Shirt in category Fashion with rating 4.8
+104,Nova Football,Sports,Nova,11077.18,4.9,394,Nova Football in category Sports with rating 4.9
+105,Ultra DBMS,Books,Ultra,33966.95,4.8,177,Ultra DBMS in category Books with rating 4.8
+106,Elite Monitor,Electronics,Elite,3411.49,3.4,229,Elite Monitor in category Electronics with rating 3.4
+107,Ultra Shirt,Fashion,Ultra,48571.09,4.2,329,Ultra Shirt in category Fashion with rating 4.2
+108,Ultra Gym Gloves,Sports,Ultra,20050.3,4.4,132,Ultra Gym Gloves in category Sports with rating 4.4
+109,Max Sneakers,Fashion,Max,15981.53,3.3,257,Max Sneakers in category Fashion with rating 3.3
+110,Prime Tablet,Electronics,Prime,6315.25,4.7,176,Prime Tablet in category Electronics with rating 4.7
+111,SmartLife Laptop,Electronics,SmartLife,19645.92,3.9,380,SmartLife Laptop in category Electronics with rating 3.9
+112,Prime Sofa,Home,Prime,25079.0,4.9,454,Prime Sofa in category Home with rating 4.9
+113,Prime Basketball,Sports,Prime,20395.67,4.2,415,Prime Basketball in category Sports with rating 4.2
+114,Elite Operating Systems,Books,Elite,47518.62,4.1,193,Elite Operating Systems in category Books with rating 4.1
+115,SmartLife Mouse,Electronics,SmartLife,16499.68,5.0,234,SmartLife Mouse in category Electronics with rating 5.0
+116,SmartLife Table,Home,SmartLife,23420.11,3.2,409,SmartLife Table in category Home with rating 3.2
+117,Max DBMS,Books,Max,12745.32,4.5,381,Max DBMS in category Books with rating 4.5
+118,Nova Football,Sports,Nova,29695.81,3.7,324,Nova Football in category Sports with rating 3.7
+119,TechPro Data Science,Books,TechPro,35698.78,4.7,394,TechPro Data Science in category Books with rating 4.7
+120,SmartLife Sofa,Home,SmartLife,43229.5,4.0,293,SmartLife Sofa in category Home with rating 4.0
+121,TechPro Data Science,Books,TechPro,27967.68,4.6,86,TechPro Data Science in category Books with rating 4.6
+122,TechPro Lamp,Home,TechPro,48859.45,3.1,362,TechPro Lamp in category Home with rating 3.1
+123,Prime Operating Systems,Books,Prime,32397.28,4.2,373,Prime Operating Systems in category Books with rating 4.2
+124,Elite Algorithms,Books,Elite,36417.97,4.4,115,Elite Algorithms in category Books with rating 4.4
+125,TechPro Cricket Bat,Sports,TechPro,13513.27,4.5,375,TechPro Cricket Bat in category Sports with rating 4.5
+126,SmartLife Algorithms,Books,SmartLife,18726.67,4.7,311,SmartLife Algorithms in category Books with rating 4.7
+127,Elite Sneakers,Fashion,Elite,5801.6,3.0,348,Elite Sneakers in category Fashion with rating 3.0
+128,SmartLife Watch,Fashion,SmartLife,27810.57,3.1,298,SmartLife Watch in category Fashion with rating 3.1
+129,Elite Machine Learning,Books,Elite,939.97,4.1,46,Elite Machine Learning in category Books with rating 4.1
+130,Max Watch,Fashion,Max,1168.51,3.7,130,Max Watch in category Fashion with rating 3.7
+131,SmartLife Table,Home,SmartLife,4726.49,3.4,75,SmartLife Table in category Home with rating 3.4
+132,Ultra Shirt,Fashion,Ultra,12152.78,3.5,324,Ultra Shirt in category Fashion with rating 3.5
+133,Nova Jeans,Fashion,Nova,20741.98,3.2,250,Nova Jeans in category Fashion with rating 3.2
+134,Elite Table,Home,Elite,44783.09,4.4,417,Elite Table in category Home with rating 4.4
+135,Max Headphones,Electronics,Max,28685.43,3.3,415,Max Headphones in category Electronics with rating 3.3
+136,Prime T-Shirt,Fashion,Prime,49487.05,4.0,449,Prime T-Shirt in category Fashion with rating 4.0
+137,Elite Lamp,Home,Elite,32626.06,4.4,499,Elite Lamp in category Home with rating 4.4
+138,TechPro Laptop,Electronics,TechPro,37012.18,4.1,379,TechPro Laptop in category Electronics with rating 4.1
+139,Max Sneakers,Fashion,Max,20726.48,3.3,461,Max Sneakers in category Fashion with rating 3.3
+140,Vision Football,Sports,Vision,49948.15,3.4,304,Vision Football in category Sports with rating 3.4
+141,Max Tennis Racket,Sports,Max,10028.5,4.7,22,Max Tennis Racket in category Sports with rating 4.7
+142,TechPro Keyboard,Electronics,TechPro,25433.52,3.6,407,TechPro Keyboard in category Electronics with rating 3.6
+143,Vision Data Science,Books,Vision,6788.9,3.9,31,Vision Data Science in category Books with rating 3.9
+144,SmartLife Shirt,Fashion,SmartLife,46662.79,3.6,445,SmartLife Shirt in category Fashion with rating 3.6
+145,Vision Jacket,Fashion,Vision,10242.71,4.9,227,Vision Jacket in category Fashion with rating 4.9
+146,Nova Monitor,Electronics,Nova,24217.05,5.0,335,Nova Monitor in category Electronics with rating 5.0
+147,SmartLife Python Guide,Books,SmartLife,40687.54,4.5,62,SmartLife Python Guide in category Books with rating 4.5
+148,Elite Vacuum Cleaner,Home,Elite,23446.65,3.5,267,Elite Vacuum Cleaner in category Home with rating 3.5
+149,Elite Data Science,Books,Elite,6026.7,3.3,85,Elite Data Science in category Books with rating 3.3
+150,Vision Smartphone,Electronics,Vision,37204.09,4.9,33,Vision Smartphone in category Electronics with rating 4.9
+151,Elite Vacuum Cleaner,Home,Elite,22477.44,4.7,182,Elite Vacuum Cleaner in category Home with rating 4.7
+152,Prime Tennis Racket,Sports,Prime,19691.4,3.5,262,Prime Tennis Racket in category Sports with rating 3.5
+153,Nova Jeans,Fashion,Nova,1985.31,3.4,270,Nova Jeans in category Fashion with rating 3.4
+154,Vision Watch,Fashion,Vision,31293.59,4.7,443,Vision Watch in category Fashion with rating 4.7
+155,Elite Hoodie,Fashion,Elite,25460.55,3.5,149,Elite Hoodie in category Fashion with rating 3.5
+156,Max DBMS,Books,Max,3860.88,3.9,238,Max DBMS in category Books with rating 3.9
+157,Prime Vacuum Cleaner,Home,Prime,6164.38,4.9,102,Prime Vacuum Cleaner in category Home with rating 4.9
+158,SmartLife Tennis Racket,Sports,SmartLife,40535.14,4.0,49,SmartLife Tennis Racket in category Sports with rating 4.0
+159,Prime Monitor,Electronics,Prime,41159.16,4.4,470,Prime Monitor in category Electronics with rating 4.4
+160,TechPro Monitor,Electronics,TechPro,6375.83,4.2,139,TechPro Monitor in category Electronics with rating 4.2
+161,Max Vacuum Cleaner,Home,Max,36172.88,3.3,35,Max Vacuum Cleaner in category Home with rating 3.3
+162,TechPro Gym Gloves,Sports,TechPro,33694.42,4.2,253,TechPro Gym Gloves in category Sports with rating 4.2
+163,SmartLife Keyboard,Electronics,SmartLife,21266.54,4.8,60,SmartLife Keyboard in category Electronics with rating 4.8
+164,Nova DBMS,Books,Nova,22760.16,4.5,454,Nova DBMS in category Books with rating 4.5
+165,Ultra Sneakers,Fashion,Ultra,22287.17,4.1,110,Ultra Sneakers in category Fashion with rating 4.1
+166,SmartLife Tennis Racket,Sports,SmartLife,23478.54,4.0,485,SmartLife Tennis Racket in category Sports with rating 4.0
+167,SmartLife DBMS,Books,SmartLife,10649.38,4.9,415,SmartLife DBMS in category Books with rating 4.9
+168,Prime Headphones,Electronics,Prime,31182.72,4.5,396,Prime Headphones in category Electronics with rating 4.5
+169,Max Cricket Bat,Sports,Max,23823.63,3.7,208,Max Cricket Bat in category Sports with rating 3.7
+170,TechPro Table,Home,TechPro,31846.8,4.5,251,TechPro Table in category Home with rating 4.5
+171,TechPro Mixer,Home,TechPro,3963.12,3.9,142,TechPro Mixer in category Home with rating 3.9
+172,Elite Sofa,Home,Elite,19394.04,3.1,212,Elite Sofa in category Home with rating 3.1
+173,TechPro T-Shirt,Fashion,TechPro,25672.31,4.8,168,TechPro T-Shirt in category Fashion with rating 4.8
+174,Max Laptop,Electronics,Max,18425.07,4.1,141,Max Laptop in category Electronics with rating 4.1
+175,Prime Machine Learning,Books,Prime,12489.78,4.3,477,Prime Machine Learning in category Books with rating 4.3
+176,TechPro Operating Systems,Books,TechPro,35077.81,4.0,341,TechPro Operating Systems in category Books with rating 4.0
+177,Prime Watch,Fashion,Prime,5026.18,4.8,201,Prime Watch in category Fashion with rating 4.8
+178,SmartLife Smartwatch,Electronics,SmartLife,43229.2,4.0,110,SmartLife Smartwatch in category Electronics with rating 4.0
+179,TechPro Python Guide,Books,TechPro,12289.14,3.8,469,TechPro Python Guide in category Books with rating 3.8
+180,Vision Table,Home,Vision,37500.6,4.5,279,Vision Table in category Home with rating 4.5
+181,Nova Jeans,Fashion,Nova,29442.34,4.4,132,Nova Jeans in category Fashion with rating 4.4
+182,Elite Algorithms,Books,Elite,43889.73,3.6,239,Elite Algorithms in category Books with rating 3.6
+183,TechPro Jacket,Fashion,TechPro,8448.66,3.1,36,TechPro Jacket in category Fashion with rating 3.1
+184,SmartLife Keyboard,Electronics,SmartLife,38472.24,4.4,491,SmartLife Keyboard in category Electronics with rating 4.4
+185,Ultra Football,Sports,Ultra,32209.62,3.1,58,Ultra Football in category Sports with rating 3.1
+186,TechPro Machine Learning,Books,TechPro,37287.47,4.7,249,TechPro Machine Learning in category Books with rating 4.7
+187,Vision Smartphone,Electronics,Vision,39288.77,4.4,156,Vision Smartphone in category Electronics with rating 4.4
+188,TechPro Tennis Racket,Sports,TechPro,29331.66,3.7,295,TechPro Tennis Racket in category Sports with rating 3.7
+189,Max Basketball,Sports,Max,3478.92,4.3,398,Max Basketball in category Sports with rating 4.3
+190,SmartLife Jeans,Fashion,SmartLife,15322.71,4.0,169,SmartLife Jeans in category Fashion with rating 4.0
+191,Ultra Sneakers,Fashion,Ultra,11618.27,4.7,486,Ultra Sneakers in category Fashion with rating 4.7
+192,SmartLife Mouse,Electronics,SmartLife,42562.01,3.4,104,SmartLife Mouse in category Electronics with rating 3.4
+193,Vision Algorithms,Books,Vision,45718.5,4.5,18,Vision Algorithms in category Books with rating 4.5
+194,TechPro Operating Systems,Books,TechPro,22763.04,4.4,328,TechPro Operating Systems in category Books with rating 4.4
+195,Nova Sneakers,Fashion,Nova,40772.01,4.3,242,Nova Sneakers in category Fashion with rating 4.3
+196,Prime Football,Sports,Prime,38473.46,4.4,289,Prime Football in category Sports with rating 4.4
+197,Vision Data Science,Books,Vision,43014.31,3.6,320,Vision Data Science in category Books with rating 3.6
+198,Prime Vacuum Cleaner,Home,Prime,32691.93,3.4,463,Prime Vacuum Cleaner in category Home with rating 3.4
+199,Max Smartwatch,Electronics,Max,29094.98,4.2,85,Max Smartwatch in category Electronics with rating 4.2
+200,Nova Gym Gloves,Sports,Nova,22277.12,4.0,304,Nova Gym Gloves in category Sports with rating 4.0
+201,Vision Lamp,Home,Vision,17911.19,3.6,464,Vision Lamp in category Home with rating 3.6
+202,SmartLife Mixer,Home,SmartLife,5090.6,4.3,451,SmartLife Mixer in category Home with rating 4.3
+203,Nova Monitor,Electronics,Nova,27153.47,4.8,451,Nova Monitor in category Electronics with rating 4.8
+204,Elite Smartphone,Electronics,Elite,2197.48,3.4,340,Elite Smartphone in category Electronics with rating 3.4
+205,SmartLife Tablet,Electronics,SmartLife,7043.07,4.6,433,SmartLife Tablet in category Electronics with rating 4.6
+206,SmartLife Python Guide,Books,SmartLife,38685.73,4.1,212,SmartLife Python Guide in category Books with rating 4.1
+207,Vision Monitor,Electronics,Vision,12220.79,3.1,33,Vision Monitor in category Electronics with rating 3.1
+208,TechPro Monitor,Electronics,TechPro,9673.19,3.6,75,TechPro Monitor in category Electronics with rating 3.6
+209,SmartLife Watch,Fashion,SmartLife,42792.83,3.3,200,SmartLife Watch in category Fashion with rating 3.3
+210,Vision Sneakers,Fashion,Vision,48801.2,3.6,413,Vision Sneakers in category Fashion with rating 3.6
+211,TechPro Tennis Racket,Sports,TechPro,2949.28,4.7,253,TechPro Tennis Racket in category Sports with rating 4.7
+212,Prime Basketball,Sports,Prime,49700.32,4.6,146,Prime Basketball in category Sports with rating 4.6
+213,Vision Gym Gloves,Sports,Vision,16269.12,3.8,313,Vision Gym Gloves in category Sports with rating 3.8
+214,Vision Chair,Home,Vision,25881.32,3.7,300,Vision Chair in category Home with rating 3.7
+215,Max Keyboard,Electronics,Max,20004.68,4.6,170,Max Keyboard in category Electronics with rating 4.6
+216,Max Football,Sports,Max,40984.01,4.2,49,Max Football in category Sports with rating 4.2
+217,TechPro Table,Home,TechPro,37720.71,4.3,391,TechPro Table in category Home with rating 4.3
+218,Vision Shirt,Fashion,Vision,18975.3,4.5,429,Vision Shirt in category Fashion with rating 4.5
+219,Max Football,Sports,Max,4836.08,3.6,346,Max Football in category Sports with rating 3.6
+220,Prime DBMS,Books,Prime,39133.48,4.1,144,Prime DBMS in category Books with rating 4.1
+221,Ultra Keyboard,Electronics,Ultra,38572.3,3.5,255,Ultra Keyboard in category Electronics with rating 3.5
+222,TechPro Vacuum Cleaner,Home,TechPro,6967.77,4.8,366,TechPro Vacuum Cleaner in category Home with rating 4.8
+223,Elite Vacuum Cleaner,Home,Elite,47638.81,3.7,356,Elite Vacuum Cleaner in category Home with rating 3.7
+224,TechPro Tennis Racket,Sports,TechPro,47495.61,4.4,488,TechPro Tennis Racket in category Sports with rating 4.4
+225,Nova Headphones,Electronics,Nova,22832.56,4.0,484,Nova Headphones in category Electronics with rating 4.0
+226,Ultra Laptop,Electronics,Ultra,38935.3,4.3,43,Ultra Laptop in category Electronics with rating 4.3
+227,Prime Algorithms,Books,Prime,14734.87,4.4,287,Prime Algorithms in category Books with rating 4.4
+228,Max Smartphone,Electronics,Max,26377.62,3.1,178,Max Smartphone in category Electronics with rating 3.1
+229,Nova Table,Home,Nova,48196.21,3.9,240,Nova Table in category Home with rating 3.9
+230,Max Operating Systems,Books,Max,41954.67,4.6,410,Max Operating Systems in category Books with rating 4.6
+231,Vision Jacket,Fashion,Vision,2470.16,5.0,285,Vision Jacket in category Fashion with rating 5.0
+232,Max Tablet,Electronics,Max,34863.95,4.8,72,Max Tablet in category Electronics with rating 4.8
+233,TechPro Headphones,Electronics,TechPro,27052.34,3.0,253,TechPro Headphones in category Electronics with rating 3.0
+234,Nova Basketball,Sports,Nova,43763.42,4.8,106,Nova Basketball in category Sports with rating 4.8
+235,Max Sofa,Home,Max,18903.87,4.5,237,Max Sofa in category Home with rating 4.5
+236,TechPro Watch,Fashion,TechPro,32319.14,4.2,495,TechPro Watch in category Fashion with rating 4.2
+237,SmartLife DBMS,Books,SmartLife,2994.89,3.4,419,SmartLife DBMS in category Books with rating 3.4
+238,Prime Football,Sports,Prime,31771.48,4.8,30,Prime Football in category Sports with rating 4.8
+239,Elite T-Shirt,Fashion,Elite,1408.0,3.5,57,Elite T-Shirt in category Fashion with rating 3.5
+240,Max Yoga Mat,Sports,Max,36072.63,3.3,243,Max Yoga Mat in category Sports with rating 3.3
+241,Nova Basketball,Sports,Nova,18601.21,4.8,60,Nova Basketball in category Sports with rating 4.8
+242,Nova Tennis Racket,Sports,Nova,11087.58,3.6,449,Nova Tennis Racket in category Sports with rating 3.6
+243,Nova Algorithms,Books,Nova,18350.76,4.1,175,Nova Algorithms in category Books with rating 4.1
+244,TechPro Data Science,Books,TechPro,18125.03,3.7,339,TechPro Data Science in category Books with rating 3.7
+245,TechPro Cricket Bat,Sports,TechPro,44727.68,4.3,200,TechPro Cricket Bat in category Sports with rating 4.3
+246,SmartLife Monitor,Electronics,SmartLife,45610.43,4.0,100,SmartLife Monitor in category Electronics with rating 4.0
+247,Vision DBMS,Books,Vision,1201.69,4.5,428,Vision DBMS in category Books with rating 4.5
+248,Prime Jacket,Fashion,Prime,9506.04,4.1,222,Prime Jacket in category Fashion with rating 4.1
+249,Max Algorithms,Books,Max,41403.69,3.4,322,Max Algorithms in category Books with rating 3.4
+250,Ultra Lamp,Home,Ultra,33471.52,3.7,107,Ultra Lamp in category Home with rating 3.7
+251,SmartLife Tablet,Electronics,SmartLife,13444.11,3.6,381,SmartLife Tablet in category Electronics with rating 3.6
+252,Vision Smartphone,Electronics,Vision,36563.69,4.1,304,Vision Smartphone in category Electronics with rating 4.1
+253,Vision Jacket,Fashion,Vision,30785.36,4.7,323,Vision Jacket in category Fashion with rating 4.7
+254,Nova Tablet,Electronics,Nova,38742.32,4.3,489,Nova Tablet in category Electronics with rating 4.3
+255,Vision Jeans,Fashion,Vision,46874.06,3.5,69,Vision Jeans in category Fashion with rating 3.5
+256,Prime Python Guide,Books,Prime,17701.42,4.0,112,Prime Python Guide in category Books with rating 4.0
+257,Prime Monitor,Electronics,Prime,27738.17,4.9,271,Prime Monitor in category Electronics with rating 4.9
+258,Max Lamp,Home,Max,22653.06,3.5,71,Max Lamp in category Home with rating 3.5
+259,Prime Cricket Bat,Sports,Prime,22476.96,3.1,419,Prime Cricket Bat in category Sports with rating 3.1
+260,Prime Gym Gloves,Sports,Prime,2854.52,4.5,196,Prime Gym Gloves in category Sports with rating 4.5
+261,Max Laptop,Electronics,Max,13718.65,4.2,384,Max Laptop in category Electronics with rating 4.2
+262,Elite Yoga Mat,Sports,Elite,39665.22,4.8,384,Elite Yoga Mat in category Sports with rating 4.8
+263,SmartLife Tennis Racket,Sports,SmartLife,49268.29,4.3,221,SmartLife Tennis Racket in category Sports with rating 4.3
+264,Nova Python Guide,Books,Nova,9221.96,3.8,172,Nova Python Guide in category Books with rating 3.8
+265,Prime Cricket Bat,Sports,Prime,6049.54,3.2,274,Prime Cricket Bat in category Sports with rating 3.2
+266,Vision Machine Learning,Books,Vision,22512.47,4.6,146,Vision Machine Learning in category Books with rating 4.6
+267,TechPro Machine Learning,Books,TechPro,41802.13,4.4,25,TechPro Machine Learning in category Books with rating 4.4
+268,Nova Operating Systems,Books,Nova,24229.78,3.7,84,Nova Operating Systems in category Books with rating 3.7
+269,TechPro Football,Sports,TechPro,6962.69,4.1,213,TechPro Football in category Sports with rating 4.1
+270,Nova Cricket Bat,Sports,Nova,7225.62,4.3,406,Nova Cricket Bat in category Sports with rating 4.3
+271,Nova Laptop,Electronics,Nova,11630.21,3.9,94,Nova Laptop in category Electronics with rating 3.9
+272,Nova Smartphone,Electronics,Nova,9899.99,5.0,443,Nova Smartphone in category Electronics with rating 5.0
+273,TechPro DBMS,Books,TechPro,16299.08,4.8,397,TechPro DBMS in category Books with rating 4.8
+274,SmartLife Laptop,Electronics,SmartLife,31415.24,5.0,276,SmartLife Laptop in category Electronics with rating 5.0
+275,Vision Basketball,Sports,Vision,38755.38,4.4,300,Vision Basketball in category Sports with rating 4.4
+276,SmartLife Football,Sports,SmartLife,26905.23,4.0,487,SmartLife Football in category Sports with rating 4.0
+277,Nova Smartphone,Electronics,Nova,14764.74,4.6,422,Nova Smartphone in category Electronics with rating 4.6
+278,Max Tablet,Electronics,Max,24209.22,3.6,495,Max Tablet in category Electronics with rating 3.6
+279,TechPro Football,Sports,TechPro,25944.46,4.5,380,TechPro Football in category Sports with rating 4.5
+280,SmartLife Yoga Mat,Sports,SmartLife,45104.55,4.8,350,SmartLife Yoga Mat in category Sports with rating 4.8
+281,TechPro Jacket,Fashion,TechPro,48771.14,3.5,173,TechPro Jacket in category Fashion with rating 3.5
+282,Elite Algorithms,Books,Elite,9151.08,3.9,346,Elite Algorithms in category Books with rating 3.9
+283,Max Smartphone,Electronics,Max,13060.27,3.8,200,Max Smartphone in category Electronics with rating 3.8
+284,Max Mixer,Home,Max,16607.02,4.6,65,Max Mixer in category Home with rating 4.6
+285,Elite Tennis Racket,Sports,Elite,27701.48,3.4,426,Elite Tennis Racket in category Sports with rating 3.4
+286,Prime Laptop,Electronics,Prime,33474.18,3.8,178,Prime Laptop in category Electronics with rating 3.8
+287,Prime Tennis Racket,Sports,Prime,38305.38,3.0,27,Prime Tennis Racket in category Sports with rating 3.0
+288,Nova Operating Systems,Books,Nova,44527.93,3.3,11,Nova Operating Systems in category Books with rating 3.3
+289,Prime Watch,Fashion,Prime,27232.05,4.4,446,Prime Watch in category Fashion with rating 4.4
+290,Max Basketball,Sports,Max,41610.89,3.2,46,Max Basketball in category Sports with rating 3.2
+291,SmartLife Table,Home,SmartLife,4442.79,3.2,482,SmartLife Table in category Home with rating 3.2
+292,Elite DBMS,Books,Elite,33002.51,4.8,98,Elite DBMS in category Books with rating 4.8
+293,Ultra Vacuum Cleaner,Home,Ultra,36977.25,4.8,75,Ultra Vacuum Cleaner in category Home with rating 4.8
+294,Elite Data Science,Books,Elite,14339.1,4.8,273,Elite Data Science in category Books with rating 4.8
+295,Prime Shirt,Fashion,Prime,30970.3,4.5,385,Prime Shirt in category Fashion with rating 4.5
+296,Ultra Lamp,Home,Ultra,44726.31,3.1,54,Ultra Lamp in category Home with rating 3.1
+297,TechPro Sofa,Home,TechPro,14456.71,4.8,411,TechPro Sofa in category Home with rating 4.8
+298,TechPro Cricket Bat,Sports,TechPro,24658.8,4.4,344,TechPro Cricket Bat in category Sports with rating 4.4
+299,Elite Mixer,Home,Elite,21158.13,3.3,273,Elite Mixer in category Home with rating 3.3
+300,SmartLife Cricket Bat,Sports,SmartLife,38969.69,3.2,178,SmartLife Cricket Bat in category Sports with rating 3.2
+301,Prime Monitor,Electronics,Prime,11128.94,4.7,116,Prime Monitor in category Electronics with rating 4.7
+302,Ultra Cricket Bat,Sports,Ultra,17192.42,4.3,67,Ultra Cricket Bat in category Sports with rating 4.3
+303,Max Yoga Mat,Sports,Max,28787.07,4.4,59,Max Yoga Mat in category Sports with rating 4.4
+304,Elite Jeans,Fashion,Elite,29761.63,3.3,248,Elite Jeans in category Fashion with rating 3.3
+305,Prime Watch,Fashion,Prime,12666.32,4.8,284,Prime Watch in category Fashion with rating 4.8
+306,Vision Football,Sports,Vision,40102.06,4.3,475,Vision Football in category Sports with rating 4.3
+307,Elite Hoodie,Fashion,Elite,22739.44,3.1,20,Elite Hoodie in category Fashion with rating 3.1
+308,Ultra Table,Home,Ultra,25476.45,4.4,164,Ultra Table in category Home with rating 4.4
+309,Elite Chair,Home,Elite,28160.29,4.8,438,Elite Chair in category Home with rating 4.8
+310,Nova Vacuum Cleaner,Home,Nova,24613.36,3.8,339,Nova Vacuum Cleaner in category Home with rating 3.8
+311,TechPro Tablet,Electronics,TechPro,33531.94,4.1,426,TechPro Tablet in category Electronics with rating 4.1
+312,Vision Table,Home,Vision,49083.63,4.9,24,Vision Table in category Home with rating 4.9
+313,Prime Yoga Mat,Sports,Prime,45220.26,4.0,451,Prime Yoga Mat in category Sports with rating 4.0
+314,Nova Shirt,Fashion,Nova,24964.9,3.9,214,Nova Shirt in category Fashion with rating 3.9
+315,Nova Mixer,Home,Nova,9017.77,4.7,335,Nova Mixer in category Home with rating 4.7
+316,Prime Headphones,Electronics,Prime,27297.24,3.0,305,Prime Headphones in category Electronics with rating 3.0
+317,Ultra Football,Sports,Ultra,2065.64,4.2,440,Ultra Football in category Sports with rating 4.2
+318,SmartLife Data Science,Books,SmartLife,28607.7,3.2,419,SmartLife Data Science in category Books with rating 3.2
+319,Elite Chair,Home,Elite,5866.83,3.3,268,Elite Chair in category Home with rating 3.3
+320,Prime Keyboard,Electronics,Prime,26126.67,3.3,192,Prime Keyboard in category Electronics with rating 3.3
+321,Prime Shirt,Fashion,Prime,26638.62,3.5,255,Prime Shirt in category Fashion with rating 3.5
+322,SmartLife T-Shirt,Fashion,SmartLife,38247.09,3.7,234,SmartLife T-Shirt in category Fashion with rating 3.7
+323,SmartLife Yoga Mat,Sports,SmartLife,9389.56,3.6,381,SmartLife Yoga Mat in category Sports with rating 3.6
+324,Ultra Operating Systems,Books,Ultra,47076.16,4.8,469,Ultra Operating Systems in category Books with rating 4.8
+325,Max Sneakers,Fashion,Max,8190.17,3.1,136,Max Sneakers in category Fashion with rating 3.1
+326,Elite T-Shirt,Fashion,Elite,5813.0,3.3,458,Elite T-Shirt in category Fashion with rating 3.3
+327,Elite Keyboard,Electronics,Elite,8089.56,4.6,339,Elite Keyboard in category Electronics with rating 4.6
+328,Ultra Football,Sports,Ultra,37784.12,3.1,477,Ultra Football in category Sports with rating 3.1
+329,Elite Tablet,Electronics,Elite,42876.66,4.6,215,Elite Tablet in category Electronics with rating 4.6
+330,Ultra Keyboard,Electronics,Ultra,14429.92,4.6,89,Ultra Keyboard in category Electronics with rating 4.6
+331,Ultra Keyboard,Electronics,Ultra,1556.23,4.5,489,Ultra Keyboard in category Electronics with rating 4.5
+332,Ultra Table,Home,Ultra,14069.89,3.7,310,Ultra Table in category Home with rating 3.7
+333,TechPro Mixer,Home,TechPro,6114.81,3.6,273,TechPro Mixer in category Home with rating 3.6
+334,SmartLife Football,Sports,SmartLife,25948.03,3.6,377,SmartLife Football in category Sports with rating 3.6
+335,Max Machine Learning,Books,Max,48453.9,3.9,16,Max Machine Learning in category Books with rating 3.9
+336,Prime Python Guide,Books,Prime,2872.24,4.7,39,Prime Python Guide in category Books with rating 4.7
+337,Vision Cricket Bat,Sports,Vision,16130.23,4.3,411,Vision Cricket Bat in category Sports with rating 4.3
+338,Ultra Yoga Mat,Sports,Ultra,25239.69,3.6,179,Ultra Yoga Mat in category Sports with rating 3.6
+339,Nova Operating Systems,Books,Nova,26779.86,3.1,46,Nova Operating Systems in category Books with rating 3.1
+340,Vision Lamp,Home,Vision,17290.14,3.4,394,Vision Lamp in category Home with rating 3.4
+341,Elite Hoodie,Fashion,Elite,31481.47,3.8,493,Elite Hoodie in category Fashion with rating 3.8
+342,Elite Vacuum Cleaner,Home,Elite,17931.43,4.9,443,Elite Vacuum Cleaner in category Home with rating 4.9
+343,Nova Mouse,Electronics,Nova,30198.8,4.7,45,Nova Mouse in category Electronics with rating 4.7
+344,SmartLife Chair,Home,SmartLife,28291.27,3.8,247,SmartLife Chair in category Home with rating 3.8
+345,TechPro Jacket,Fashion,TechPro,1281.29,3.7,311,TechPro Jacket in category Fashion with rating 3.7
+346,Ultra Tennis Racket,Sports,Ultra,22892.06,4.0,307,Ultra Tennis Racket in category Sports with rating 4.0
+347,Vision Algorithms,Books,Vision,24179.79,3.6,263,Vision Algorithms in category Books with rating 3.6
+348,Ultra Laptop,Electronics,Ultra,15594.07,4.2,371,Ultra Laptop in category Electronics with rating 4.2
+349,TechPro Table,Home,TechPro,46586.8,4.3,496,TechPro Table in category Home with rating 4.3
+350,TechPro Watch,Fashion,TechPro,4136.98,4.3,264,TechPro Watch in category Fashion with rating 4.3
+351,SmartLife Sneakers,Fashion,SmartLife,40187.88,3.1,363,SmartLife Sneakers in category Fashion with rating 3.1
+352,Elite Shirt,Fashion,Elite,43726.01,4.6,278,Elite Shirt in category Fashion with rating 4.6
+353,Vision Watch,Fashion,Vision,48172.8,4.6,447,Vision Watch in category Fashion with rating 4.6
+354,TechPro DBMS,Books,TechPro,27796.66,4.3,71,TechPro DBMS in category Books with rating 4.3
+355,SmartLife DBMS,Books,SmartLife,17387.56,3.3,420,SmartLife DBMS in category Books with rating 3.3
+356,Vision Sofa,Home,Vision,33083.68,4.1,256,Vision Sofa in category Home with rating 4.1
+357,Max Watch,Fashion,Max,23810.19,3.3,204,Max Watch in category Fashion with rating 3.3
+358,Nova Cricket Bat,Sports,Nova,29391.35,4.6,367,Nova Cricket Bat in category Sports with rating 4.6
+359,Max Data Science,Books,Max,30985.31,3.2,281,Max Data Science in category Books with rating 3.2
+360,TechPro Tennis Racket,Sports,TechPro,18593.98,4.7,13,TechPro Tennis Racket in category Sports with rating 4.7
+361,Max Algorithms,Books,Max,38305.66,5.0,293,Max Algorithms in category Books with rating 5.0
+362,Max Sofa,Home,Max,16066.02,3.9,365,Max Sofa in category Home with rating 3.9
+363,TechPro Watch,Fashion,TechPro,18853.22,3.7,322,TechPro Watch in category Fashion with rating 3.7
+364,TechPro Data Science,Books,TechPro,15756.2,5.0,356,TechPro Data Science in category Books with rating 5.0
+365,Ultra Basketball,Sports,Ultra,28724.0,4.3,110,Ultra Basketball in category Sports with rating 4.3
+366,TechPro Gym Gloves,Sports,TechPro,44877.18,4.0,201,TechPro Gym Gloves in category Sports with rating 4.0
+367,SmartLife Cricket Bat,Sports,SmartLife,4551.15,4.2,182,SmartLife Cricket Bat in category Sports with rating 4.2
+368,Elite Gym Gloves,Sports,Elite,20336.81,4.4,401,Elite Gym Gloves in category Sports with rating 4.4
+369,Ultra Lamp,Home,Ultra,12522.62,4.9,421,Ultra Lamp in category Home with rating 4.9
+370,Max Mouse,Electronics,Max,38445.46,4.2,347,Max Mouse in category Electronics with rating 4.2
+371,Ultra Table,Home,Ultra,24399.65,3.2,410,Ultra Table in category Home with rating 3.2
+372,Prime Football,Sports,Prime,47902.12,3.8,70,Prime Football in category Sports with rating 3.8
+373,Nova Data Science,Books,Nova,15791.62,3.2,417,Nova Data Science in category Books with rating 3.2
+374,Vision T-Shirt,Fashion,Vision,40467.32,3.5,42,Vision T-Shirt in category Fashion with rating 3.5
+375,Prime T-Shirt,Fashion,Prime,18361.31,3.8,470,Prime T-Shirt in category Fashion with rating 3.8
+376,Max Headphones,Electronics,Max,41494.79,4.6,151,Max Headphones in category Electronics with rating 4.6
+377,TechPro Watch,Fashion,TechPro,3104.07,4.3,367,TechPro Watch in category Fashion with rating 4.3
+378,Max DBMS,Books,Max,19013.74,4.5,474,Max DBMS in category Books with rating 4.5
+379,TechPro Watch,Fashion,TechPro,26988.82,3.2,153,TechPro Watch in category Fashion with rating 3.2
+380,Nova Sofa,Home,Nova,39528.8,4.4,404,Nova Sofa in category Home with rating 4.4
+381,TechPro Operating Systems,Books,TechPro,37770.13,4.0,86,TechPro Operating Systems in category Books with rating 4.0
+382,SmartLife Machine Learning,Books,SmartLife,16343.04,3.6,326,SmartLife Machine Learning in category Books with rating 3.6
+383,Ultra Keyboard,Electronics,Ultra,38218.31,4.7,37,Ultra Keyboard in category Electronics with rating 4.7
+384,SmartLife Headphones,Electronics,SmartLife,27256.73,4.9,61,SmartLife Headphones in category Electronics with rating 4.9
+385,Ultra Mixer,Home,Ultra,47721.4,5.0,491,Ultra Mixer in category Home with rating 5.0
+386,TechPro Python Guide,Books,TechPro,38549.86,3.4,388,TechPro Python Guide in category Books with rating 3.4
+387,Ultra Sneakers,Fashion,Ultra,5672.05,3.1,165,Ultra Sneakers in category Fashion with rating 3.1
+388,SmartLife Jeans,Fashion,SmartLife,31216.99,4.9,142,SmartLife Jeans in category Fashion with rating 4.9
+389,Max Operating Systems,Books,Max,20961.66,3.1,190,Max Operating Systems in category Books with rating 3.1
+390,SmartLife DBMS,Books,SmartLife,43234.9,4.1,317,SmartLife DBMS in category Books with rating 4.1
+391,TechPro Laptop,Electronics,TechPro,34570.68,3.3,162,TechPro Laptop in category Electronics with rating 3.3
+392,Ultra Football,Sports,Ultra,27036.57,3.2,443,Ultra Football in category Sports with rating 3.2
+393,Vision Lamp,Home,Vision,48162.49,4.7,495,Vision Lamp in category Home with rating 4.7
+394,Ultra DBMS,Books,Ultra,40411.08,4.1,430,Ultra DBMS in category Books with rating 4.1
+395,Elite Football,Sports,Elite,23397.8,4.8,354,Elite Football in category Sports with rating 4.8
+396,Max Lamp,Home,Max,25158.56,3.5,147,Max Lamp in category Home with rating 3.5
+397,Nova Chair,Home,Nova,30700.51,4.0,308,Nova Chair in category Home with rating 4.0
+398,Nova Keyboard,Electronics,Nova,2650.93,3.7,436,Nova Keyboard in category Electronics with rating 3.7
+399,Prime Shirt,Fashion,Prime,49762.86,4.5,431,Prime Shirt in category Fashion with rating 4.5
+400,Elite Football,Sports,Elite,41260.31,3.5,121,Elite Football in category Sports with rating 3.5
+401,SmartLife Keyboard,Electronics,SmartLife,36817.57,3.4,201,SmartLife Keyboard in category Electronics with rating 3.4
+402,SmartLife Yoga Mat,Sports,SmartLife,36597.92,4.5,445,SmartLife Yoga Mat in category Sports with rating 4.5
+403,Prime Gym Gloves,Sports,Prime,28081.51,4.0,313,Prime Gym Gloves in category Sports with rating 4.0
+404,TechPro Operating Systems,Books,TechPro,31166.53,4.3,389,TechPro Operating Systems in category Books with rating 4.3
+405,Max Football,Sports,Max,21378.46,4.4,498,Max Football in category Sports with rating 4.4
+406,SmartLife Lamp,Home,SmartLife,7340.76,4.8,119,SmartLife Lamp in category Home with rating 4.8
+407,Max Tennis Racket,Sports,Max,29887.52,3.1,31,Max Tennis Racket in category Sports with rating 3.1
+408,TechPro Keyboard,Electronics,TechPro,6328.14,4.5,91,TechPro Keyboard in category Electronics with rating 4.5
+409,Max Gym Gloves,Sports,Max,8971.16,4.5,494,Max Gym Gloves in category Sports with rating 4.5
+410,Vision T-Shirt,Fashion,Vision,41218.31,3.9,476,Vision T-Shirt in category Fashion with rating 3.9
+411,Nova Python Guide,Books,Nova,1219.8,5.0,101,Nova Python Guide in category Books with rating 5.0
+412,Ultra Tennis Racket,Sports,Ultra,37858.54,3.9,130,Ultra Tennis Racket in category Sports with rating 3.9
+413,TechPro Tablet,Electronics,TechPro,12147.0,3.0,36,TechPro Tablet in category Electronics with rating 3.0
+414,Ultra Vacuum Cleaner,Home,Ultra,38306.46,4.0,388,Ultra Vacuum Cleaner in category Home with rating 4.0
+415,Nova Keyboard,Electronics,Nova,25951.49,3.6,167,Nova Keyboard in category Electronics with rating 3.6
+416,TechPro Vacuum Cleaner,Home,TechPro,24648.43,3.9,490,TechPro Vacuum Cleaner in category Home with rating 3.9
+417,Ultra Vacuum Cleaner,Home,Ultra,4841.47,4.4,480,Ultra Vacuum Cleaner in category Home with rating 4.4
+418,Max Cricket Bat,Sports,Max,2362.18,3.6,386,Max Cricket Bat in category Sports with rating 3.6
+419,Ultra Jeans,Fashion,Ultra,14703.13,4.5,295,Ultra Jeans in category Fashion with rating 4.5
+420,TechPro Watch,Fashion,TechPro,15614.14,3.0,264,TechPro Watch in category Fashion with rating 3.0
+421,Nova Python Guide,Books,Nova,31804.04,4.2,54,Nova Python Guide in category Books with rating 4.2
+422,Prime Watch,Fashion,Prime,6261.28,4.0,500,Prime Watch in category Fashion with rating 4.0
+423,SmartLife Hoodie,Fashion,SmartLife,11457.77,4.9,127,SmartLife Hoodie in category Fashion with rating 4.9
+424,Vision DBMS,Books,Vision,36905.51,3.8,485,Vision DBMS in category Books with rating 3.8
+425,Ultra Operating Systems,Books,Ultra,14019.67,3.7,460,Ultra Operating Systems in category Books with rating 3.7
+426,Elite Jeans,Fashion,Elite,41456.63,3.8,154,Elite Jeans in category Fashion with rating 3.8
+427,Nova Mouse,Electronics,Nova,27901.02,4.3,257,Nova Mouse in category Electronics with rating 4.3
+428,Vision Shirt,Fashion,Vision,33754.12,3.5,215,Vision Shirt in category Fashion with rating 3.5
+429,TechPro Operating Systems,Books,TechPro,27515.27,3.4,212,TechPro Operating Systems in category Books with rating 3.4
+430,SmartLife Chair,Home,SmartLife,21006.47,3.2,101,SmartLife Chair in category Home with rating 3.2
+431,Elite Watch,Fashion,Elite,49169.65,3.4,103,Elite Watch in category Fashion with rating 3.4
+432,SmartLife Tennis Racket,Sports,SmartLife,6197.92,4.5,282,SmartLife Tennis Racket in category Sports with rating 4.5
+433,Ultra Machine Learning,Books,Ultra,10072.37,3.3,234,Ultra Machine Learning in category Books with rating 3.3
+434,SmartLife Headphones,Electronics,SmartLife,16598.9,5.0,383,SmartLife Headphones in category Electronics with rating 5.0
+435,Elite Smartwatch,Electronics,Elite,40227.07,3.5,128,Elite Smartwatch in category Electronics with rating 3.5
+436,Vision T-Shirt,Fashion,Vision,20050.01,4.6,35,Vision T-Shirt in category Fashion with rating 4.6
+437,Vision Smartphone,Electronics,Vision,35619.13,3.8,260,Vision Smartphone in category Electronics with rating 3.8
+438,TechPro Python Guide,Books,TechPro,21960.99,3.1,469,TechPro Python Guide in category Books with rating 3.1
+439,Nova Python Guide,Books,Nova,16167.7,3.5,144,Nova Python Guide in category Books with rating 3.5
+440,TechPro Operating Systems,Books,TechPro,14536.8,4.5,244,TechPro Operating Systems in category Books with rating 4.5
+441,Vision Gym Gloves,Sports,Vision,39837.66,3.4,90,Vision Gym Gloves in category Sports with rating 3.4
+442,Prime Data Science,Books,Prime,37225.83,4.8,132,Prime Data Science in category Books with rating 4.8
+443,TechPro Cricket Bat,Sports,TechPro,11450.31,5.0,290,TechPro Cricket Bat in category Sports with rating 5.0
+444,TechPro Basketball,Sports,TechPro,28200.46,4.2,67,TechPro Basketball in category Sports with rating 4.2
+445,Elite Chair,Home,Elite,26097.48,4.8,233,Elite Chair in category Home with rating 4.8
+446,TechPro Cricket Bat,Sports,TechPro,38999.71,3.4,341,TechPro Cricket Bat in category Sports with rating 3.4
+447,Elite Data Science,Books,Elite,1786.28,4.8,35,Elite Data Science in category Books with rating 4.8
+448,Ultra Mouse,Electronics,Ultra,2876.4,3.3,194,Ultra Mouse in category Electronics with rating 3.3
+449,Vision Algorithms,Books,Vision,13161.26,4.9,96,Vision Algorithms in category Books with rating 4.9
+450,Ultra Gym Gloves,Sports,Ultra,23175.8,4.0,498,Ultra Gym Gloves in category Sports with rating 4.0
+451,Prime Table,Home,Prime,25695.85,3.4,348,Prime Table in category Home with rating 3.4
+452,Prime Laptop,Electronics,Prime,44355.44,4.5,254,Prime Laptop in category Electronics with rating 4.5
+453,Nova Operating Systems,Books,Nova,42922.83,3.8,459,Nova Operating Systems in category Books with rating 3.8
+454,Elite Operating Systems,Books,Elite,18251.72,3.8,83,Elite Operating Systems in category Books with rating 3.8
+455,Max Tennis Racket,Sports,Max,20131.08,4.1,164,Max Tennis Racket in category Sports with rating 4.1
+456,Max Headphones,Electronics,Max,1912.21,4.0,422,Max Headphones in category Electronics with rating 4.0
+457,Vision Jeans,Fashion,Vision,46152.92,4.1,118,Vision Jeans in category Fashion with rating 4.1
+458,Prime Gym Gloves,Sports,Prime,36217.4,3.3,419,Prime Gym Gloves in category Sports with rating 3.3
+459,SmartLife Machine Learning,Books,SmartLife,39799.52,4.2,48,SmartLife Machine Learning in category Books with rating 4.2
+460,Prime Hoodie,Fashion,Prime,39348.62,3.7,278,Prime Hoodie in category Fashion with rating 3.7
+461,Max Hoodie,Fashion,Max,26817.53,3.4,153,Max Hoodie in category Fashion with rating 3.4
+462,Nova Operating Systems,Books,Nova,33845.42,3.5,346,Nova Operating Systems in category Books with rating 3.5
+463,Ultra Mixer,Home,Ultra,6549.7,3.0,345,Ultra Mixer in category Home with rating 3.0
+464,Nova Basketball,Sports,Nova,21186.6,3.2,88,Nova Basketball in category Sports with rating 3.2
+465,Ultra Tablet,Electronics,Ultra,39352.27,3.9,200,Ultra Tablet in category Electronics with rating 3.9
+466,Prime Laptop,Electronics,Prime,13376.5,4.6,442,Prime Laptop in category Electronics with rating 4.6
+467,Prime Watch,Fashion,Prime,12976.07,4.5,477,Prime Watch in category Fashion with rating 4.5
+468,Elite Jeans,Fashion,Elite,24597.09,4.7,248,Elite Jeans in category Fashion with rating 4.7
+469,Prime Jeans,Fashion,Prime,1077.8,4.0,322,Prime Jeans in category Fashion with rating 4.0
+470,SmartLife Watch,Fashion,SmartLife,32211.33,3.4,186,SmartLife Watch in category Fashion with rating 3.4
+471,SmartLife Data Science,Books,SmartLife,31085.83,5.0,15,SmartLife Data Science in category Books with rating 5.0
+472,Elite Chair,Home,Elite,47178.07,4.0,368,Elite Chair in category Home with rating 4.0
+473,Max Lamp,Home,Max,38539.41,4.8,377,Max Lamp in category Home with rating 4.8
+474,SmartLife Data Science,Books,SmartLife,26267.24,3.7,218,SmartLife Data Science in category Books with rating 3.7
+475,Nova Chair,Home,Nova,24040.09,3.0,457,Nova Chair in category Home with rating 3.0
+476,Ultra Data Science,Books,Ultra,4640.74,3.4,202,Ultra Data Science in category Books with rating 3.4
+477,TechPro T-Shirt,Fashion,TechPro,30788.48,3.2,14,TechPro T-Shirt in category Fashion with rating 3.2
+478,SmartLife Sneakers,Fashion,SmartLife,34852.07,3.4,85,SmartLife Sneakers in category Fashion with rating 3.4
+479,Max Python Guide,Books,Max,44947.31,3.4,236,Max Python Guide in category Books with rating 3.4
+480,Max Shirt,Fashion,Max,35205.56,3.7,151,Max Shirt in category Fashion with rating 3.7
+481,Max Chair,Home,Max,13556.95,3.5,500,Max Chair in category Home with rating 3.5
+482,Elite Shirt,Fashion,Elite,41850.2,3.2,179,Elite Shirt in category Fashion with rating 3.2
+483,Elite Headphones,Electronics,Elite,14354.43,4.5,465,Elite Headphones in category Electronics with rating 4.5
+484,Vision Laptop,Electronics,Vision,28565.56,4.1,149,Vision Laptop in category Electronics with rating 4.1
+485,Prime Operating Systems,Books,Prime,20233.79,3.2,365,Prime Operating Systems in category Books with rating 3.2
+486,Nova Sneakers,Fashion,Nova,29253.99,4.3,412,Nova Sneakers in category Fashion with rating 4.3
+487,SmartLife Data Science,Books,SmartLife,32775.06,3.5,16,SmartLife Data Science in category Books with rating 3.5
+488,Elite Tennis Racket,Sports,Elite,32241.14,4.5,174,Elite Tennis Racket in category Sports with rating 4.5
+489,SmartLife Gym Gloves,Sports,SmartLife,1919.39,4.4,34,SmartLife Gym Gloves in category Sports with rating 4.4
+490,Prime Mixer,Home,Prime,453.8,3.1,468,Prime Mixer in category Home with rating 3.1
+491,Prime Smartphone,Electronics,Prime,36843.21,4.2,232,Prime Smartphone in category Electronics with rating 4.2
+492,Elite Laptop,Electronics,Elite,24143.81,4.8,78,Elite Laptop in category Electronics with rating 4.8
+493,Max Mixer,Home,Max,27057.04,4.9,309,Max Mixer in category Home with rating 4.9
+494,Ultra Gym Gloves,Sports,Ultra,48172.52,4.7,320,Ultra Gym Gloves in category Sports with rating 4.7
+495,Vision Headphones,Electronics,Vision,22880.84,3.5,70,Vision Headphones in category Electronics with rating 3.5
+496,SmartLife Shirt,Fashion,SmartLife,12608.55,3.1,377,SmartLife Shirt in category Fashion with rating 3.1
+497,Prime DBMS,Books,Prime,18503.25,4.3,261,Prime DBMS in category Books with rating 4.3
+498,SmartLife Operating Systems,Books,SmartLife,21554.52,3.6,379,SmartLife Operating Systems in category Books with rating 3.6
+499,Ultra Machine Learning,Books,Ultra,5795.18,4.0,251,Ultra Machine Learning in category Books with rating 4.0
+500,Prime Smartwatch,Electronics,Prime,10775.36,4.8,169,Prime Smartwatch in category Electronics with rating 4.8
+501,TechPro T-Shirt,Fashion,TechPro,9549.44,4.3,373,TechPro T-Shirt in category Fashion with rating 4.3
+502,Elite Basketball,Sports,Elite,42382.98,4.6,265,Elite Basketball in category Sports with rating 4.6
+503,Vision Laptop,Electronics,Vision,16476.01,4.7,294,Vision Laptop in category Electronics with rating 4.7
+504,Prime Yoga Mat,Sports,Prime,35306.66,3.8,253,Prime Yoga Mat in category Sports with rating 3.8
+505,Nova Jeans,Fashion,Nova,44883.72,4.8,373,Nova Jeans in category Fashion with rating 4.8
+506,Max Keyboard,Electronics,Max,224.04,4.1,110,Max Keyboard in category Electronics with rating 4.1
+507,SmartLife DBMS,Books,SmartLife,14426.68,4.6,489,SmartLife DBMS in category Books with rating 4.6
+508,Max Laptop,Electronics,Max,35105.38,3.7,90,Max Laptop in category Electronics with rating 3.7
+509,SmartLife Vacuum Cleaner,Home,SmartLife,32526.37,4.8,143,SmartLife Vacuum Cleaner in category Home with rating 4.8
+510,SmartLife Tablet,Electronics,SmartLife,9392.46,4.6,142,SmartLife Tablet in category Electronics with rating 4.6
+511,SmartLife Basketball,Sports,SmartLife,17756.52,4.8,295,SmartLife Basketball in category Sports with rating 4.8
+512,Ultra Tennis Racket,Sports,Ultra,33733.25,4.3,485,Ultra Tennis Racket in category Sports with rating 4.3
+513,Ultra Sofa,Home,Ultra,43981.88,4.3,288,Ultra Sofa in category Home with rating 4.3
+514,Ultra Data Science,Books,Ultra,1913.89,4.3,37,Ultra Data Science in category Books with rating 4.3
+515,Prime Yoga Mat,Sports,Prime,5596.49,4.6,72,Prime Yoga Mat in category Sports with rating 4.6
+516,Ultra Python Guide,Books,Ultra,34528.02,4.7,304,Ultra Python Guide in category Books with rating 4.7
+517,Max Sneakers,Fashion,Max,14689.68,4.0,282,Max Sneakers in category Fashion with rating 4.0
+518,Prime Tablet,Electronics,Prime,24419.07,4.7,473,Prime Tablet in category Electronics with rating 4.7
+519,Max Tennis Racket,Sports,Max,31118.45,3.8,404,Max Tennis Racket in category Sports with rating 3.8
+520,Elite Python Guide,Books,Elite,45911.01,4.6,203,Elite Python Guide in category Books with rating 4.6
+521,Max Sneakers,Fashion,Max,36388.72,3.9,391,Max Sneakers in category Fashion with rating 3.9
+522,SmartLife Data Science,Books,SmartLife,44210.84,4.9,40,SmartLife Data Science in category Books with rating 4.9
+523,SmartLife Tennis Racket,Sports,SmartLife,1650.85,4.6,324,SmartLife Tennis Racket in category Sports with rating 4.6
+524,Max Smartwatch,Electronics,Max,41600.5,3.9,76,Max Smartwatch in category Electronics with rating 3.9
+525,SmartLife Machine Learning,Books,SmartLife,13279.57,3.4,87,SmartLife Machine Learning in category Books with rating 3.4
+526,Ultra Sneakers,Fashion,Ultra,7452.49,3.1,369,Ultra Sneakers in category Fashion with rating 3.1
+527,Elite T-Shirt,Fashion,Elite,11316.46,3.3,242,Elite T-Shirt in category Fashion with rating 3.3
+528,SmartLife Jacket,Fashion,SmartLife,35986.63,4.9,405,SmartLife Jacket in category Fashion with rating 4.9
+529,Prime Watch,Fashion,Prime,6108.13,4.1,39,Prime Watch in category Fashion with rating 4.1
+530,TechPro Headphones,Electronics,TechPro,46585.94,4.3,385,TechPro Headphones in category Electronics with rating 4.3
+531,Max Mixer,Home,Max,27171.66,4.2,192,Max Mixer in category Home with rating 4.2
+532,SmartLife Laptop,Electronics,SmartLife,5385.35,3.5,59,SmartLife Laptop in category Electronics with rating 3.5
+533,Max Smartwatch,Electronics,Max,29258.56,4.9,125,Max Smartwatch in category Electronics with rating 4.9
+534,Nova Chair,Home,Nova,44506.95,3.9,432,Nova Chair in category Home with rating 3.9
+535,Nova Keyboard,Electronics,Nova,11339.94,4.4,437,Nova Keyboard in category Electronics with rating 4.4
+536,Nova Jeans,Fashion,Nova,49177.66,5.0,134,Nova Jeans in category Fashion with rating 5.0
+537,TechPro Algorithms,Books,TechPro,48405.37,3.6,32,TechPro Algorithms in category Books with rating 3.6
+538,Vision Machine Learning,Books,Vision,37386.36,4.6,416,Vision Machine Learning in category Books with rating 4.6
+539,Ultra Smartphone,Electronics,Ultra,23307.63,4.2,260,Ultra Smartphone in category Electronics with rating 4.2
+540,Max Operating Systems,Books,Max,10397.55,3.1,312,Max Operating Systems in category Books with rating 3.1
+541,SmartLife Mouse,Electronics,SmartLife,4065.89,3.6,270,SmartLife Mouse in category Electronics with rating 3.6
+542,Elite Python Guide,Books,Elite,40548.34,4.8,334,Elite Python Guide in category Books with rating 4.8
+543,Elite Data Science,Books,Elite,36403.81,5.0,66,Elite Data Science in category Books with rating 5.0
+544,Prime Mixer,Home,Prime,32930.07,3.8,105,Prime Mixer in category Home with rating 3.8
+545,Max Python Guide,Books,Max,15269.14,4.4,378,Max Python Guide in category Books with rating 4.4
+546,Max Machine Learning,Books,Max,22756.13,3.6,485,Max Machine Learning in category Books with rating 3.6
+547,Elite Tennis Racket,Sports,Elite,16794.45,4.6,265,Elite Tennis Racket in category Sports with rating 4.6
+548,Max Hoodie,Fashion,Max,41807.97,3.5,408,Max Hoodie in category Fashion with rating 3.5
+549,TechPro Algorithms,Books,TechPro,34548.65,4.8,474,TechPro Algorithms in category Books with rating 4.8
+550,Prime Chair,Home,Prime,35375.26,4.1,256,Prime Chair in category Home with rating 4.1
+551,Vision Basketball,Sports,Vision,18802.82,4.3,236,Vision Basketball in category Sports with rating 4.3
+552,Nova Mixer,Home,Nova,46305.32,4.3,386,Nova Mixer in category Home with rating 4.3
+553,Nova Table,Home,Nova,7315.75,4.1,46,Nova Table in category Home with rating 4.1
+554,Elite Python Guide,Books,Elite,2421.78,4.1,300,Elite Python Guide in category Books with rating 4.1
+555,SmartLife Basketball,Sports,SmartLife,2132.46,4.8,398,SmartLife Basketball in category Sports with rating 4.8
+556,Elite Headphones,Electronics,Elite,2781.16,3.3,159,Elite Headphones in category Electronics with rating 3.3
+557,Nova Laptop,Electronics,Nova,15386.23,3.4,316,Nova Laptop in category Electronics with rating 3.4
+558,Vision Tablet,Electronics,Vision,46235.61,3.3,478,Vision Tablet in category Electronics with rating 3.3
+559,TechPro Smartwatch,Electronics,TechPro,23139.74,3.9,74,TechPro Smartwatch in category Electronics with rating 3.9
+560,Elite Table,Home,Elite,7977.06,3.2,179,Elite Table in category Home with rating 3.2
+561,Vision Mixer,Home,Vision,14482.03,4.7,223,Vision Mixer in category Home with rating 4.7
+562,TechPro Data Science,Books,TechPro,43444.91,3.2,439,TechPro Data Science in category Books with rating 3.2
+563,Nova Watch,Fashion,Nova,28209.7,4.6,249,Nova Watch in category Fashion with rating 4.6
+564,Elite Gym Gloves,Sports,Elite,31213.34,3.4,337,Elite Gym Gloves in category Sports with rating 3.4
+565,Vision Algorithms,Books,Vision,28318.15,4.6,430,Vision Algorithms in category Books with rating 4.6
+566,Elite Laptop,Electronics,Elite,25803.77,4.4,376,Elite Laptop in category Electronics with rating 4.4
+567,TechPro Basketball,Sports,TechPro,15324.26,3.3,477,TechPro Basketball in category Sports with rating 3.3
+568,Ultra Vacuum Cleaner,Home,Ultra,32557.55,4.7,493,Ultra Vacuum Cleaner in category Home with rating 4.7
+569,Prime Jeans,Fashion,Prime,36201.43,4.4,168,Prime Jeans in category Fashion with rating 4.4
+570,Elite Laptop,Electronics,Elite,21259.41,3.3,183,Elite Laptop in category Electronics with rating 3.3
+571,Max Operating Systems,Books,Max,31782.39,3.0,67,Max Operating Systems in category Books with rating 3.0
+572,Vision Operating Systems,Books,Vision,30707.23,3.2,27,Vision Operating Systems in category Books with rating 3.2
+573,Nova Hoodie,Fashion,Nova,39047.01,4.2,392,Nova Hoodie in category Fashion with rating 4.2
+574,Max Smartphone,Electronics,Max,41099.28,3.3,273,Max Smartphone in category Electronics with rating 3.3
+575,Elite Smartwatch,Electronics,Elite,10506.78,4.7,266,Elite Smartwatch in category Electronics with rating 4.7
+576,Nova Watch,Fashion,Nova,45495.24,4.1,202,Nova Watch in category Fashion with rating 4.1
+577,Nova Headphones,Electronics,Nova,44987.94,4.4,108,Nova Headphones in category Electronics with rating 4.4
+578,Ultra Tablet,Electronics,Ultra,1697.82,4.1,21,Ultra Tablet in category Electronics with rating 4.1
+579,Elite Football,Sports,Elite,38616.94,4.5,493,Elite Football in category Sports with rating 4.5
+580,Prime Hoodie,Fashion,Prime,44184.3,3.5,150,Prime Hoodie in category Fashion with rating 3.5
+581,Elite Mouse,Electronics,Elite,6246.35,3.5,450,Elite Mouse in category Electronics with rating 3.5
+582,Elite Shirt,Fashion,Elite,10475.33,4.6,261,Elite Shirt in category Fashion with rating 4.6
+583,Max Headphones,Electronics,Max,6146.33,3.7,299,Max Headphones in category Electronics with rating 3.7
+584,Nova DBMS,Books,Nova,19257.48,3.9,374,Nova DBMS in category Books with rating 3.9
+585,Nova Sofa,Home,Nova,8161.84,4.5,390,Nova Sofa in category Home with rating 4.5
+586,Nova Headphones,Electronics,Nova,6914.7,4.7,154,Nova Headphones in category Electronics with rating 4.7
+587,Vision Yoga Mat,Sports,Vision,32777.37,4.8,426,Vision Yoga Mat in category Sports with rating 4.8
+588,Nova Algorithms,Books,Nova,27424.32,3.6,490,Nova Algorithms in category Books with rating 3.6
+589,Elite Basketball,Sports,Elite,43405.62,4.1,96,Elite Basketball in category Sports with rating 4.1
+590,Vision Tennis Racket,Sports,Vision,41840.48,3.6,347,Vision Tennis Racket in category Sports with rating 3.6
+591,TechPro Hoodie,Fashion,TechPro,30278.37,4.5,133,TechPro Hoodie in category Fashion with rating 4.5
+592,Elite Headphones,Electronics,Elite,38036.83,4.4,42,Elite Headphones in category Electronics with rating 4.4
+593,Nova DBMS,Books,Nova,401.13,3.5,104,Nova DBMS in category Books with rating 3.5
+594,Elite Chair,Home,Elite,6798.73,3.4,404,Elite Chair in category Home with rating 3.4
+595,SmartLife Algorithms,Books,SmartLife,45921.37,3.2,472,SmartLife Algorithms in category Books with rating 3.2
+596,Max Chair,Home,Max,32771.91,4.0,309,Max Chair in category Home with rating 4.0
+597,TechPro Football,Sports,TechPro,18882.08,4.3,223,TechPro Football in category Sports with rating 4.3
+598,Prime Jeans,Fashion,Prime,45413.18,4.3,77,Prime Jeans in category Fashion with rating 4.3
+599,TechPro Monitor,Electronics,TechPro,29388.58,4.7,209,TechPro Monitor in category Electronics with rating 4.7
+600,Max Jacket,Fashion,Max,26767.25,4.0,97,Max Jacket in category Fashion with rating 4.0
+601,Prime Algorithms,Books,Prime,12114.35,3.6,20,Prime Algorithms in category Books with rating 3.6
+602,Ultra Sneakers,Fashion,Ultra,43948.31,3.5,107,Ultra Sneakers in category Fashion with rating 3.5
+603,Prime Sofa,Home,Prime,11756.25,4.3,171,Prime Sofa in category Home with rating 4.3
+604,TechPro Cricket Bat,Sports,TechPro,4338.18,4.8,284,TechPro Cricket Bat in category Sports with rating 4.8
+605,SmartLife Yoga Mat,Sports,SmartLife,19977.71,4.7,198,SmartLife Yoga Mat in category Sports with rating 4.7
+606,Vision Sofa,Home,Vision,43821.79,3.2,87,Vision Sofa in category Home with rating 3.2
+607,TechPro Monitor,Electronics,TechPro,26487.2,3.8,456,TechPro Monitor in category Electronics with rating 3.8
+608,TechPro Jacket,Fashion,TechPro,5120.41,4.7,367,TechPro Jacket in category Fashion with rating 4.7
+609,Vision Vacuum Cleaner,Home,Vision,33919.73,3.2,86,Vision Vacuum Cleaner in category Home with rating 3.2
+610,Nova Keyboard,Electronics,Nova,6083.35,4.1,215,Nova Keyboard in category Electronics with rating 4.1
+611,Vision Table,Home,Vision,38155.71,4.0,161,Vision Table in category Home with rating 4.0
+612,Nova Jacket,Fashion,Nova,9105.24,4.4,413,Nova Jacket in category Fashion with rating 4.4
+613,Prime Lamp,Home,Prime,34787.97,3.8,343,Prime Lamp in category Home with rating 3.8
+614,Vision Cricket Bat,Sports,Vision,33129.4,4.1,285,Vision Cricket Bat in category Sports with rating 4.1
+615,TechPro Vacuum Cleaner,Home,TechPro,43466.47,4.2,310,TechPro Vacuum Cleaner in category Home with rating 4.2
+616,Ultra Jacket,Fashion,Ultra,49708.25,3.3,395,Ultra Jacket in category Fashion with rating 3.3
+617,TechPro Chair,Home,TechPro,38164.63,4.8,385,TechPro Chair in category Home with rating 4.8
+618,Prime Chair,Home,Prime,49699.54,3.6,224,Prime Chair in category Home with rating 3.6
+619,SmartLife Keyboard,Electronics,SmartLife,5233.98,3.1,499,SmartLife Keyboard in category Electronics with rating 3.1
+620,Max Yoga Mat,Sports,Max,41367.14,3.6,348,Max Yoga Mat in category Sports with rating 3.6
+621,SmartLife Lamp,Home,SmartLife,40131.14,3.0,20,SmartLife Lamp in category Home with rating 3.0
+622,Ultra Tennis Racket,Sports,Ultra,6578.1,3.9,174,Ultra Tennis Racket in category Sports with rating 3.9
+623,Prime Laptop,Electronics,Prime,17115.18,3.1,203,Prime Laptop in category Electronics with rating 3.1
+624,TechPro Gym Gloves,Sports,TechPro,22526.01,4.7,483,TechPro Gym Gloves in category Sports with rating 4.7
+625,SmartLife Chair,Home,SmartLife,40669.47,4.6,333,SmartLife Chair in category Home with rating 4.6
+626,Nova Watch,Fashion,Nova,15033.12,3.4,95,Nova Watch in category Fashion with rating 3.4
+627,Vision T-Shirt,Fashion,Vision,27574.38,4.2,33,Vision T-Shirt in category Fashion with rating 4.2
+628,Vision Smartphone,Electronics,Vision,23099.84,3.7,270,Vision Smartphone in category Electronics with rating 3.7
+629,Vision Chair,Home,Vision,40738.39,4.8,253,Vision Chair in category Home with rating 4.8
+630,Elite Chair,Home,Elite,442.35,3.8,481,Elite Chair in category Home with rating 3.8
+631,Max Lamp,Home,Max,7077.88,3.5,468,Max Lamp in category Home with rating 3.5
+632,Elite Vacuum Cleaner,Home,Elite,6152.36,3.1,364,Elite Vacuum Cleaner in category Home with rating 3.1
+633,Elite Data Science,Books,Elite,44219.08,4.2,368,Elite Data Science in category Books with rating 4.2
+634,SmartLife Jeans,Fashion,SmartLife,220.38,3.6,467,SmartLife Jeans in category Fashion with rating 3.6
+635,SmartLife Headphones,Electronics,SmartLife,11759.63,3.7,314,SmartLife Headphones in category Electronics with rating 3.7
+636,Elite Sneakers,Fashion,Elite,10376.92,4.8,84,Elite Sneakers in category Fashion with rating 4.8
+637,Vision Sneakers,Fashion,Vision,29150.36,4.4,346,Vision Sneakers in category Fashion with rating 4.4
+638,SmartLife Mouse,Electronics,SmartLife,39114.68,4.7,275,SmartLife Mouse in category Electronics with rating 4.7
+639,Ultra Shirt,Fashion,Ultra,10619.91,4.4,10,Ultra Shirt in category Fashion with rating 4.4
+640,Prime Smartphone,Electronics,Prime,45422.08,4.5,177,Prime Smartphone in category Electronics with rating 4.5
+641,Prime Laptop,Electronics,Prime,6572.94,4.0,323,Prime Laptop in category Electronics with rating 4.0
+642,Elite Chair,Home,Elite,8381.88,3.5,308,Elite Chair in category Home with rating 3.5
+643,Prime Hoodie,Fashion,Prime,4374.97,3.6,289,Prime Hoodie in category Fashion with rating 3.6
+644,SmartLife Mixer,Home,SmartLife,35897.69,4.7,167,SmartLife Mixer in category Home with rating 4.7
+645,Nova Jacket,Fashion,Nova,257.64,4.5,422,Nova Jacket in category Fashion with rating 4.5
+646,Elite Data Science,Books,Elite,45847.29,4.6,70,Elite Data Science in category Books with rating 4.6
+647,Vision T-Shirt,Fashion,Vision,36612.83,4.1,490,Vision T-Shirt in category Fashion with rating 4.1
+648,Prime T-Shirt,Fashion,Prime,21165.14,4.6,189,Prime T-Shirt in category Fashion with rating 4.6
+649,TechPro Mouse,Electronics,TechPro,4613.75,3.7,350,TechPro Mouse in category Electronics with rating 3.7
+650,Max DBMS,Books,Max,24521.0,3.4,399,Max DBMS in category Books with rating 3.4
+651,TechPro Jacket,Fashion,TechPro,7260.97,3.8,470,TechPro Jacket in category Fashion with rating 3.8
+652,Max Smartwatch,Electronics,Max,26600.06,4.2,17,Max Smartwatch in category Electronics with rating 4.2
+653,Prime Smartphone,Electronics,Prime,43554.0,3.5,176,Prime Smartphone in category Electronics with rating 3.5
+654,Ultra T-Shirt,Fashion,Ultra,27056.62,3.2,51,Ultra T-Shirt in category Fashion with rating 3.2
+655,Nova T-Shirt,Fashion,Nova,12462.94,4.1,171,Nova T-Shirt in category Fashion with rating 4.1
+656,SmartLife Mixer,Home,SmartLife,31797.22,4.4,87,SmartLife Mixer in category Home with rating 4.4
+657,Ultra Headphones,Electronics,Ultra,25738.09,3.6,411,Ultra Headphones in category Electronics with rating 3.6
+658,Nova Sneakers,Fashion,Nova,47750.8,3.2,467,Nova Sneakers in category Fashion with rating 3.2
+659,Max Shirt,Fashion,Max,30186.26,3.3,93,Max Shirt in category Fashion with rating 3.3
+660,Ultra Mixer,Home,Ultra,25741.37,3.7,211,Ultra Mixer in category Home with rating 3.7
+661,Nova Watch,Fashion,Nova,5658.71,3.9,198,Nova Watch in category Fashion with rating 3.9
+662,SmartLife Algorithms,Books,SmartLife,27653.91,4.2,42,SmartLife Algorithms in category Books with rating 4.2
+663,Ultra DBMS,Books,Ultra,32190.48,4.5,97,Ultra DBMS in category Books with rating 4.5
+664,Ultra Headphones,Electronics,Ultra,45901.74,3.4,212,Ultra Headphones in category Electronics with rating 3.4
+665,SmartLife DBMS,Books,SmartLife,35577.05,3.2,305,SmartLife DBMS in category Books with rating 3.2
+666,Nova Mixer,Home,Nova,10162.66,4.9,114,Nova Mixer in category Home with rating 4.9
+667,Nova Chair,Home,Nova,4688.38,3.5,360,Nova Chair in category Home with rating 3.5
+668,Elite Smartwatch,Electronics,Elite,40981.37,4.4,443,Elite Smartwatch in category Electronics with rating 4.4
+669,Ultra Vacuum Cleaner,Home,Ultra,6537.35,5.0,418,Ultra Vacuum Cleaner in category Home with rating 5.0
+670,TechPro Chair,Home,TechPro,35085.07,3.9,474,TechPro Chair in category Home with rating 3.9
+671,Max Gym Gloves,Sports,Max,7139.11,3.6,404,Max Gym Gloves in category Sports with rating 3.6
+672,TechPro Python Guide,Books,TechPro,48647.08,4.1,47,TechPro Python Guide in category Books with rating 4.1
+673,Nova Chair,Home,Nova,30075.05,3.4,490,Nova Chair in category Home with rating 3.4
+674,Elite Tennis Racket,Sports,Elite,33383.08,4.2,357,Elite Tennis Racket in category Sports with rating 4.2
+675,Vision Smartwatch,Electronics,Vision,16926.1,4.0,29,Vision Smartwatch in category Electronics with rating 4.0
+676,Vision Mouse,Electronics,Vision,33473.57,3.5,316,Vision Mouse in category Electronics with rating 3.5
+677,Nova Monitor,Electronics,Nova,11973.16,4.0,112,Nova Monitor in category Electronics with rating 4.0
+678,SmartLife Data Science,Books,SmartLife,22043.28,4.0,388,SmartLife Data Science in category Books with rating 4.0
+679,Elite Laptop,Electronics,Elite,31646.34,3.1,376,Elite Laptop in category Electronics with rating 3.1
+680,Elite Gym Gloves,Sports,Elite,38998.1,4.8,145,Elite Gym Gloves in category Sports with rating 4.8
+681,Ultra Keyboard,Electronics,Ultra,5628.46,3.8,217,Ultra Keyboard in category Electronics with rating 3.8
+682,Vision Shirt,Fashion,Vision,42464.96,3.2,40,Vision Shirt in category Fashion with rating 3.2
+683,Ultra Data Science,Books,Ultra,45931.89,4.9,376,Ultra Data Science in category Books with rating 4.9
+684,Nova DBMS,Books,Nova,3013.61,4.0,352,Nova DBMS in category Books with rating 4.0
+685,Elite Gym Gloves,Sports,Elite,41923.39,4.1,192,Elite Gym Gloves in category Sports with rating 4.1
+686,Ultra Cricket Bat,Sports,Ultra,45011.26,4.4,385,Ultra Cricket Bat in category Sports with rating 4.4
+687,Max Yoga Mat,Sports,Max,717.84,3.0,127,Max Yoga Mat in category Sports with rating 3.0
+688,Max Lamp,Home,Max,38045.02,3.7,13,Max Lamp in category Home with rating 3.7
+689,Vision Tennis Racket,Sports,Vision,41829.59,3.6,134,Vision Tennis Racket in category Sports with rating 3.6
+690,Ultra Data Science,Books,Ultra,41412.97,4.6,313,Ultra Data Science in category Books with rating 4.6
+691,Prime Watch,Fashion,Prime,41216.51,4.5,320,Prime Watch in category Fashion with rating 4.5
+692,TechPro Machine Learning,Books,TechPro,14911.59,3.9,260,TechPro Machine Learning in category Books with rating 3.9
+693,Nova DBMS,Books,Nova,14314.4,3.4,100,Nova DBMS in category Books with rating 3.4
+694,Prime Machine Learning,Books,Prime,44149.94,3.5,187,Prime Machine Learning in category Books with rating 3.5
+695,Prime Mixer,Home,Prime,9844.43,4.6,295,Prime Mixer in category Home with rating 4.6
+696,Vision Yoga Mat,Sports,Vision,40113.78,4.0,335,Vision Yoga Mat in category Sports with rating 4.0
+697,TechPro Basketball,Sports,TechPro,7722.44,4.6,176,TechPro Basketball in category Sports with rating 4.6
+698,SmartLife Sofa,Home,SmartLife,9662.16,4.9,323,SmartLife Sofa in category Home with rating 4.9
+699,Prime T-Shirt,Fashion,Prime,5438.31,4.7,317,Prime T-Shirt in category Fashion with rating 4.7
+700,Nova Laptop,Electronics,Nova,44860.58,3.2,343,Nova Laptop in category Electronics with rating 3.2
+701,Prime Table,Home,Prime,48008.48,4.9,164,Prime Table in category Home with rating 4.9
+702,SmartLife DBMS,Books,SmartLife,33760.78,4.8,301,SmartLife DBMS in category Books with rating 4.8
+703,Max Algorithms,Books,Max,6450.12,4.4,371,Max Algorithms in category Books with rating 4.4
+704,Max Vacuum Cleaner,Home,Max,9675.03,3.0,36,Max Vacuum Cleaner in category Home with rating 3.0
+705,Max Laptop,Electronics,Max,13447.42,4.9,257,Max Laptop in category Electronics with rating 4.9
+706,Max Sofa,Home,Max,28566.9,4.4,366,Max Sofa in category Home with rating 4.4
+707,Elite Sofa,Home,Elite,15992.73,3.9,367,Elite Sofa in category Home with rating 3.9
+708,Prime Keyboard,Electronics,Prime,32615.83,4.7,376,Prime Keyboard in category Electronics with rating 4.7
+709,Prime Sofa,Home,Prime,5973.16,3.6,224,Prime Sofa in category Home with rating 3.6
+710,Vision Python Guide,Books,Vision,42697.32,4.6,380,Vision Python Guide in category Books with rating 4.6
+711,TechPro Mixer,Home,TechPro,48396.22,4.0,82,TechPro Mixer in category Home with rating 4.0
+712,TechPro Operating Systems,Books,TechPro,1201.05,3.1,252,TechPro Operating Systems in category Books with rating 3.1
+713,Ultra Tablet,Electronics,Ultra,12669.34,3.9,156,Ultra Tablet in category Electronics with rating 3.9
+714,Prime Cricket Bat,Sports,Prime,388.62,4.8,401,Prime Cricket Bat in category Sports with rating 4.8
+715,Nova Football,Sports,Nova,47302.52,4.1,312,Nova Football in category Sports with rating 4.1
+716,Elite Mixer,Home,Elite,42751.06,3.1,389,Elite Mixer in category Home with rating 3.1
+717,Ultra Sofa,Home,Ultra,46487.23,3.8,398,Ultra Sofa in category Home with rating 3.8
+718,Ultra Basketball,Sports,Ultra,37358.78,3.6,354,Ultra Basketball in category Sports with rating 3.6
+719,SmartLife Basketball,Sports,SmartLife,30421.62,4.8,436,SmartLife Basketball in category Sports with rating 4.8
+720,SmartLife Operating Systems,Books,SmartLife,25294.83,4.2,92,SmartLife Operating Systems in category Books with rating 4.2
+721,SmartLife Monitor,Electronics,SmartLife,11091.52,4.5,319,SmartLife Monitor in category Electronics with rating 4.5
+722,Vision DBMS,Books,Vision,32935.98,3.0,449,Vision DBMS in category Books with rating 3.0
+723,TechPro Table,Home,TechPro,36277.46,4.8,426,TechPro Table in category Home with rating 4.8
+724,Vision Jacket,Fashion,Vision,24474.6,4.7,175,Vision Jacket in category Fashion with rating 4.7
+725,Max Jacket,Fashion,Max,483.56,4.5,136,Max Jacket in category Fashion with rating 4.5
+726,SmartLife Basketball,Sports,SmartLife,2496.68,3.9,305,SmartLife Basketball in category Sports with rating 3.9
+727,TechPro Operating Systems,Books,TechPro,438.02,4.4,328,TechPro Operating Systems in category Books with rating 4.4
+728,Max Headphones,Electronics,Max,23069.87,3.8,56,Max Headphones in category Electronics with rating 3.8
+729,Nova Python Guide,Books,Nova,6411.8,3.5,126,Nova Python Guide in category Books with rating 3.5
+730,Ultra Cricket Bat,Sports,Ultra,14149.73,3.8,80,Ultra Cricket Bat in category Sports with rating 3.8
+731,Elite Watch,Fashion,Elite,16917.83,3.1,369,Elite Watch in category Fashion with rating 3.1
+732,SmartLife Chair,Home,SmartLife,5306.79,4.9,394,SmartLife Chair in category Home with rating 4.9
+733,Elite Algorithms,Books,Elite,24986.47,4.4,46,Elite Algorithms in category Books with rating 4.4
+734,Vision Gym Gloves,Sports,Vision,23991.75,4.5,381,Vision Gym Gloves in category Sports with rating 4.5
+735,Max Operating Systems,Books,Max,43432.71,4.3,13,Max Operating Systems in category Books with rating 4.3
+736,Elite Watch,Fashion,Elite,38251.67,4.1,36,Elite Watch in category Fashion with rating 4.1
+737,Prime Python Guide,Books,Prime,36206.1,3.7,476,Prime Python Guide in category Books with rating 3.7
+738,Prime Algorithms,Books,Prime,15531.85,3.8,140,Prime Algorithms in category Books with rating 3.8
+739,SmartLife Lamp,Home,SmartLife,13771.59,4.8,183,SmartLife Lamp in category Home with rating 4.8
+740,Ultra Yoga Mat,Sports,Ultra,45995.95,3.0,76,Ultra Yoga Mat in category Sports with rating 3.0
+741,Vision Operating Systems,Books,Vision,31552.58,3.8,336,Vision Operating Systems in category Books with rating 3.8
+742,Ultra Hoodie,Fashion,Ultra,14843.38,3.1,126,Ultra Hoodie in category Fashion with rating 3.1
+743,Nova Laptop,Electronics,Nova,42509.31,3.1,140,Nova Laptop in category Electronics with rating 3.1
+744,TechPro Table,Home,TechPro,18360.93,4.8,144,TechPro Table in category Home with rating 4.8
+745,Prime Yoga Mat,Sports,Prime,45440.93,3.5,78,Prime Yoga Mat in category Sports with rating 3.5
+746,Ultra Table,Home,Ultra,44817.61,3.0,88,Ultra Table in category Home with rating 3.0
+747,Vision Football,Sports,Vision,34589.54,3.9,284,Vision Football in category Sports with rating 3.9
+748,Elite Smartwatch,Electronics,Elite,28055.47,4.3,122,Elite Smartwatch in category Electronics with rating 4.3
+749,Vision Shirt,Fashion,Vision,3721.25,3.2,98,Vision Shirt in category Fashion with rating 3.2
+750,Vision Mouse,Electronics,Vision,19961.47,5.0,179,Vision Mouse in category Electronics with rating 5.0
+751,TechPro DBMS,Books,TechPro,27320.98,3.7,313,TechPro DBMS in category Books with rating 3.7
+752,Max Headphones,Electronics,Max,5588.07,4.7,441,Max Headphones in category Electronics with rating 4.7
+753,TechPro Laptop,Electronics,TechPro,306.15,3.4,264,TechPro Laptop in category Electronics with rating 3.4
+754,Ultra Machine Learning,Books,Ultra,38357.09,3.7,47,Ultra Machine Learning in category Books with rating 3.7
+755,SmartLife Data Science,Books,SmartLife,49266.78,4.3,349,SmartLife Data Science in category Books with rating 4.3
+756,SmartLife Lamp,Home,SmartLife,15622.14,3.1,376,SmartLife Lamp in category Home with rating 3.1
+757,TechPro Smartwatch,Electronics,TechPro,2573.06,3.8,224,TechPro Smartwatch in category Electronics with rating 3.8
+758,SmartLife Lamp,Home,SmartLife,37167.62,4.5,290,SmartLife Lamp in category Home with rating 4.5
+759,Elite DBMS,Books,Elite,6819.2,4.5,54,Elite DBMS in category Books with rating 4.5
+760,Max Laptop,Electronics,Max,36444.13,4.0,254,Max Laptop in category Electronics with rating 4.0
+761,Elite DBMS,Books,Elite,22491.66,4.3,203,Elite DBMS in category Books with rating 4.3
+762,Max Basketball,Sports,Max,19414.05,3.5,182,Max Basketball in category Sports with rating 3.5
+763,Elite Sneakers,Fashion,Elite,30942.49,4.0,207,Elite Sneakers in category Fashion with rating 4.0
+764,SmartLife Watch,Fashion,SmartLife,28731.56,3.1,425,SmartLife Watch in category Fashion with rating 3.1
+765,Ultra Sofa,Home,Ultra,31345.33,4.3,312,Ultra Sofa in category Home with rating 4.3
+766,Prime Cricket Bat,Sports,Prime,26498.77,3.1,239,Prime Cricket Bat in category Sports with rating 3.1
+767,Nova Jeans,Fashion,Nova,7842.19,4.7,395,Nova Jeans in category Fashion with rating 4.7
+768,Nova Gym Gloves,Sports,Nova,40370.23,3.4,155,Nova Gym Gloves in category Sports with rating 3.4
+769,Nova Smartwatch,Electronics,Nova,9790.61,4.4,312,Nova Smartwatch in category Electronics with rating 4.4
+770,Nova Lamp,Home,Nova,42412.75,5.0,329,Nova Lamp in category Home with rating 5.0
+771,Nova Yoga Mat,Sports,Nova,39565.91,3.7,345,Nova Yoga Mat in category Sports with rating 3.7
+772,Ultra Sneakers,Fashion,Ultra,18529.81,4.5,144,Ultra Sneakers in category Fashion with rating 4.5
+773,TechPro Hoodie,Fashion,TechPro,34753.09,3.9,414,TechPro Hoodie in category Fashion with rating 3.9
+774,Nova Machine Learning,Books,Nova,12453.88,4.8,431,Nova Machine Learning in category Books with rating 4.8
+775,Elite Gym Gloves,Sports,Elite,43992.69,4.4,228,Elite Gym Gloves in category Sports with rating 4.4
+776,Prime Algorithms,Books,Prime,2104.22,4.8,298,Prime Algorithms in category Books with rating 4.8
+777,Elite Keyboard,Electronics,Elite,6839.94,3.1,493,Elite Keyboard in category Electronics with rating 3.1
+778,TechPro Algorithms,Books,TechPro,3085.7,4.7,174,TechPro Algorithms in category Books with rating 4.7
+779,Max Lamp,Home,Max,22584.78,4.6,435,Max Lamp in category Home with rating 4.6
+780,Ultra Sofa,Home,Ultra,35145.88,3.7,154,Ultra Sofa in category Home with rating 3.7
+781,Nova Operating Systems,Books,Nova,12519.25,3.4,29,Nova Operating Systems in category Books with rating 3.4
+782,SmartLife Tennis Racket,Sports,SmartLife,25029.88,3.8,420,SmartLife Tennis Racket in category Sports with rating 3.8
+783,Prime DBMS,Books,Prime,2487.05,3.0,427,Prime DBMS in category Books with rating 3.0
+784,Elite Monitor,Electronics,Elite,25352.49,3.9,496,Elite Monitor in category Electronics with rating 3.9
+785,Vision Cricket Bat,Sports,Vision,4346.7,4.3,94,Vision Cricket Bat in category Sports with rating 4.3
+786,TechPro Cricket Bat,Sports,TechPro,30926.72,4.4,17,TechPro Cricket Bat in category Sports with rating 4.4
+787,Nova Gym Gloves,Sports,Nova,40823.71,3.2,93,Nova Gym Gloves in category Sports with rating 3.2
+788,TechPro Machine Learning,Books,TechPro,41026.27,4.3,105,TechPro Machine Learning in category Books with rating 4.3
+789,Max DBMS,Books,Max,1816.46,4.8,284,Max DBMS in category Books with rating 4.8
+790,Max Table,Home,Max,15586.89,3.3,374,Max Table in category Home with rating 3.3
+791,Nova Laptop,Electronics,Nova,41917.35,4.5,491,Nova Laptop in category Electronics with rating 4.5
+792,Vision Sneakers,Fashion,Vision,4007.26,3.7,242,Vision Sneakers in category Fashion with rating 3.7
+793,SmartLife Algorithms,Books,SmartLife,13587.81,3.2,470,SmartLife Algorithms in category Books with rating 3.2
+794,SmartLife Python Guide,Books,SmartLife,30949.31,3.6,247,SmartLife Python Guide in category Books with rating 3.6
+795,Elite Machine Learning,Books,Elite,32377.29,3.5,300,Elite Machine Learning in category Books with rating 3.5
+796,SmartLife Data Science,Books,SmartLife,21838.38,3.0,416,SmartLife Data Science in category Books with rating 3.0
+797,Vision Algorithms,Books,Vision,22242.61,4.5,459,Vision Algorithms in category Books with rating 4.5
+798,SmartLife Machine Learning,Books,SmartLife,24072.65,4.0,483,SmartLife Machine Learning in category Books with rating 4.0
+799,Nova Algorithms,Books,Nova,29295.38,3.0,316,Nova Algorithms in category Books with rating 3.0
+800,SmartLife Smartwatch,Electronics,SmartLife,29284.27,3.1,322,SmartLife Smartwatch in category Electronics with rating 3.1
+801,Prime Monitor,Electronics,Prime,25996.63,3.6,412,Prime Monitor in category Electronics with rating 3.6
+802,TechPro Shirt,Fashion,TechPro,29310.49,3.4,346,TechPro Shirt in category Fashion with rating 3.4
+803,Vision Python Guide,Books,Vision,22148.81,4.8,402,Vision Python Guide in category Books with rating 4.8
+804,Elite Monitor,Electronics,Elite,48819.85,4.4,445,Elite Monitor in category Electronics with rating 4.4
+805,Vision Data Science,Books,Vision,4559.11,4.6,453,Vision Data Science in category Books with rating 4.6
+806,TechPro Python Guide,Books,TechPro,8710.96,4.3,370,TechPro Python Guide in category Books with rating 4.3
+807,Prime Football,Sports,Prime,11340.96,3.7,471,Prime Football in category Sports with rating 3.7
+808,Max Jeans,Fashion,Max,27122.06,3.2,473,Max Jeans in category Fashion with rating 3.2
+809,SmartLife Python Guide,Books,SmartLife,34833.11,3.8,139,SmartLife Python Guide in category Books with rating 3.8
+810,TechPro Keyboard,Electronics,TechPro,48797.78,4.0,435,TechPro Keyboard in category Electronics with rating 4.0
+811,Elite Machine Learning,Books,Elite,20344.91,3.1,93,Elite Machine Learning in category Books with rating 3.1
+812,SmartLife Chair,Home,SmartLife,28078.94,3.4,41,SmartLife Chair in category Home with rating 3.4
+813,TechPro Mixer,Home,TechPro,41927.1,3.2,346,TechPro Mixer in category Home with rating 3.2
+814,SmartLife Laptop,Electronics,SmartLife,33283.74,3.4,16,SmartLife Laptop in category Electronics with rating 3.4
+815,TechPro Jacket,Fashion,TechPro,35089.79,3.6,474,TechPro Jacket in category Fashion with rating 3.6
+816,Nova Lamp,Home,Nova,19363.96,4.3,291,Nova Lamp in category Home with rating 4.3
+817,SmartLife Basketball,Sports,SmartLife,21537.13,5.0,143,SmartLife Basketball in category Sports with rating 5.0
+818,Vision Python Guide,Books,Vision,42909.58,3.5,271,Vision Python Guide in category Books with rating 3.5
+819,Prime Hoodie,Fashion,Prime,32003.19,3.6,49,Prime Hoodie in category Fashion with rating 3.6
+820,Nova Python Guide,Books,Nova,26694.21,4.5,385,Nova Python Guide in category Books with rating 4.5
+821,Vision Jeans,Fashion,Vision,26408.86,3.9,33,Vision Jeans in category Fashion with rating 3.9
+822,Elite Jacket,Fashion,Elite,27111.03,3.4,46,Elite Jacket in category Fashion with rating 3.4
+823,Elite Basketball,Sports,Elite,13378.41,3.9,401,Elite Basketball in category Sports with rating 3.9
+824,Prime Yoga Mat,Sports,Prime,5039.94,3.9,50,Prime Yoga Mat in category Sports with rating 3.9
+825,Vision Chair,Home,Vision,28254.11,4.2,448,Vision Chair in category Home with rating 4.2
+826,Ultra Jeans,Fashion,Ultra,29510.85,3.6,190,Ultra Jeans in category Fashion with rating 3.6
+827,SmartLife Mixer,Home,SmartLife,37803.15,4.5,393,SmartLife Mixer in category Home with rating 4.5
+828,Nova DBMS,Books,Nova,34403.57,4.0,259,Nova DBMS in category Books with rating 4.0
+829,Ultra Gym Gloves,Sports,Ultra,38217.44,4.0,432,Ultra Gym Gloves in category Sports with rating 4.0
+830,Max Hoodie,Fashion,Max,33747.74,4.6,453,Max Hoodie in category Fashion with rating 4.6
+831,Ultra Machine Learning,Books,Ultra,23326.51,4.8,457,Ultra Machine Learning in category Books with rating 4.8
+832,Prime Chair,Home,Prime,20542.83,3.8,288,Prime Chair in category Home with rating 3.8
+833,Elite Cricket Bat,Sports,Elite,24476.09,4.9,256,Elite Cricket Bat in category Sports with rating 4.9
+834,Prime Watch,Fashion,Prime,49950.91,4.9,331,Prime Watch in category Fashion with rating 4.9
+835,Vision Cricket Bat,Sports,Vision,36736.09,4.3,170,Vision Cricket Bat in category Sports with rating 4.3
+836,Max Lamp,Home,Max,30323.41,4.0,298,Max Lamp in category Home with rating 4.0
+837,Elite Shirt,Fashion,Elite,34170.3,3.4,147,Elite Shirt in category Fashion with rating 3.4
+838,Vision Tablet,Electronics,Vision,36322.97,4.5,266,Vision Tablet in category Electronics with rating 4.5
+839,Max Machine Learning,Books,Max,37882.64,3.4,159,Max Machine Learning in category Books with rating 3.4
+840,Elite Tennis Racket,Sports,Elite,6441.41,4.9,308,Elite Tennis Racket in category Sports with rating 4.9
+841,Elite Laptop,Electronics,Elite,24635.05,3.1,178,Elite Laptop in category Electronics with rating 3.1
+842,Vision Sneakers,Fashion,Vision,26401.18,4.6,183,Vision Sneakers in category Fashion with rating 4.6
+843,Prime Tennis Racket,Sports,Prime,8832.68,4.6,107,Prime Tennis Racket in category Sports with rating 4.6
+844,Max Watch,Fashion,Max,45486.87,4.6,438,Max Watch in category Fashion with rating 4.6
+845,SmartLife Table,Home,SmartLife,40929.11,3.3,255,SmartLife Table in category Home with rating 3.3
+846,TechPro Tablet,Electronics,TechPro,4505.67,3.2,117,TechPro Tablet in category Electronics with rating 3.2
+847,Nova Tennis Racket,Sports,Nova,10205.16,3.8,158,Nova Tennis Racket in category Sports with rating 3.8
+848,Nova Yoga Mat,Sports,Nova,901.98,3.4,283,Nova Yoga Mat in category Sports with rating 3.4
+849,SmartLife Data Science,Books,SmartLife,41838.25,4.9,236,SmartLife Data Science in category Books with rating 4.9
+850,SmartLife Laptop,Electronics,SmartLife,11036.28,3.8,206,SmartLife Laptop in category Electronics with rating 3.8
+851,Prime Table,Home,Prime,48378.62,4.3,399,Prime Table in category Home with rating 4.3
+852,Ultra Operating Systems,Books,Ultra,5948.59,4.7,39,Ultra Operating Systems in category Books with rating 4.7
+853,Ultra Lamp,Home,Ultra,40591.47,4.8,254,Ultra Lamp in category Home with rating 4.8
+854,TechPro Basketball,Sports,TechPro,186.53,4.6,415,TechPro Basketball in category Sports with rating 4.6
+855,Prime T-Shirt,Fashion,Prime,40872.99,4.8,99,Prime T-Shirt in category Fashion with rating 4.8
+856,Nova Basketball,Sports,Nova,11849.96,4.9,401,Nova Basketball in category Sports with rating 4.9
+857,Ultra Watch,Fashion,Ultra,14738.98,3.8,233,Ultra Watch in category Fashion with rating 3.8
+858,Prime Football,Sports,Prime,48439.93,3.7,453,Prime Football in category Sports with rating 3.7
+859,Prime Python Guide,Books,Prime,35549.57,3.5,214,Prime Python Guide in category Books with rating 3.5
+860,Elite Smartphone,Electronics,Elite,37366.41,3.4,218,Elite Smartphone in category Electronics with rating 3.4
+861,Nova Keyboard,Electronics,Nova,15897.96,3.1,184,Nova Keyboard in category Electronics with rating 3.1
+862,TechPro Chair,Home,TechPro,38844.04,4.7,32,TechPro Chair in category Home with rating 4.7
+863,TechPro Smartwatch,Electronics,TechPro,29561.39,3.8,359,TechPro Smartwatch in category Electronics with rating 3.8
+864,Ultra Cricket Bat,Sports,Ultra,43283.6,4.4,461,Ultra Cricket Bat in category Sports with rating 4.4
+865,Ultra Hoodie,Fashion,Ultra,37904.46,4.7,421,Ultra Hoodie in category Fashion with rating 4.7
+866,Max Smartphone,Electronics,Max,16227.85,4.8,470,Max Smartphone in category Electronics with rating 4.8
+867,Nova Mouse,Electronics,Nova,13332.03,3.5,37,Nova Mouse in category Electronics with rating 3.5
+868,Max Jeans,Fashion,Max,33140.25,4.7,130,Max Jeans in category Fashion with rating 4.7
+869,Nova Cricket Bat,Sports,Nova,32849.58,3.6,197,Nova Cricket Bat in category Sports with rating 3.6
+870,Max Smartphone,Electronics,Max,1710.19,3.0,251,Max Smartphone in category Electronics with rating 3.0
+871,Ultra DBMS,Books,Ultra,43944.41,3.3,272,Ultra DBMS in category Books with rating 3.3
+872,Nova Football,Sports,Nova,9502.21,4.6,334,Nova Football in category Sports with rating 4.6
+873,Vision Mouse,Electronics,Vision,42348.08,4.5,316,Vision Mouse in category Electronics with rating 4.5
+874,Vision Algorithms,Books,Vision,34899.78,3.9,372,Vision Algorithms in category Books with rating 3.9
+875,TechPro Mixer,Home,TechPro,1421.9,4.2,402,TechPro Mixer in category Home with rating 4.2
+876,Vision Monitor,Electronics,Vision,22426.19,3.4,68,Vision Monitor in category Electronics with rating 3.4
+877,Ultra Algorithms,Books,Ultra,21728.12,4.3,99,Ultra Algorithms in category Books with rating 4.3
+878,TechPro T-Shirt,Fashion,TechPro,5264.48,5.0,438,TechPro T-Shirt in category Fashion with rating 5.0
+879,SmartLife Data Science,Books,SmartLife,44261.29,4.0,136,SmartLife Data Science in category Books with rating 4.0
+880,SmartLife Basketball,Sports,SmartLife,8689.6,3.9,84,SmartLife Basketball in category Sports with rating 3.9
+881,Ultra Laptop,Electronics,Ultra,3673.88,3.9,382,Ultra Laptop in category Electronics with rating 3.9
+882,Prime Table,Home,Prime,1861.67,3.1,180,Prime Table in category Home with rating 3.1
+883,Max Vacuum Cleaner,Home,Max,30876.64,4.7,430,Max Vacuum Cleaner in category Home with rating 4.7
+884,Vision Python Guide,Books,Vision,23887.69,3.1,225,Vision Python Guide in category Books with rating 3.1
+885,Elite Basketball,Sports,Elite,38574.61,3.5,205,Elite Basketball in category Sports with rating 3.5
+886,Prime Chair,Home,Prime,1836.99,3.8,271,Prime Chair in category Home with rating 3.8
+887,Max Algorithms,Books,Max,30513.43,4.9,386,Max Algorithms in category Books with rating 4.9
+888,SmartLife Basketball,Sports,SmartLife,27207.46,3.3,74,SmartLife Basketball in category Sports with rating 3.3
+889,Elite Hoodie,Fashion,Elite,2996.8,4.8,17,Elite Hoodie in category Fashion with rating 4.8
+890,SmartLife Operating Systems,Books,SmartLife,16658.67,4.7,254,SmartLife Operating Systems in category Books with rating 4.7
+891,Nova Hoodie,Fashion,Nova,32467.38,4.6,474,Nova Hoodie in category Fashion with rating 4.6
+892,Vision Machine Learning,Books,Vision,47915.24,4.0,218,Vision Machine Learning in category Books with rating 4.0
+893,Vision Data Science,Books,Vision,5720.46,4.6,469,Vision Data Science in category Books with rating 4.6
+894,TechPro Tablet,Electronics,TechPro,36243.15,3.8,275,TechPro Tablet in category Electronics with rating 3.8
+895,Elite Headphones,Electronics,Elite,31571.92,4.4,349,Elite Headphones in category Electronics with rating 4.4
+896,SmartLife Jacket,Fashion,SmartLife,27885.93,3.1,456,SmartLife Jacket in category Fashion with rating 3.1
+897,Vision Tennis Racket,Sports,Vision,31630.82,4.8,82,Vision Tennis Racket in category Sports with rating 4.8
+898,Ultra Headphones,Electronics,Ultra,18381.78,3.3,23,Ultra Headphones in category Electronics with rating 3.3
+899,SmartLife Tablet,Electronics,SmartLife,10552.13,3.7,356,SmartLife Tablet in category Electronics with rating 3.7
+900,Max Shirt,Fashion,Max,32510.78,3.1,293,Max Shirt in category Fashion with rating 3.1
+901,Prime T-Shirt,Fashion,Prime,39268.23,3.4,441,Prime T-Shirt in category Fashion with rating 3.4
+902,Vision Tablet,Electronics,Vision,22990.57,3.8,305,Vision Tablet in category Electronics with rating 3.8
+903,Max Smartwatch,Electronics,Max,777.85,3.5,470,Max Smartwatch in category Electronics with rating 3.5
+904,Max Python Guide,Books,Max,3798.27,4.3,442,Max Python Guide in category Books with rating 4.3
+905,Nova Smartwatch,Electronics,Nova,24717.33,3.4,418,Nova Smartwatch in category Electronics with rating 3.4
+906,Vision Basketball,Sports,Vision,34874.33,3.8,51,Vision Basketball in category Sports with rating 3.8
+907,Prime Jeans,Fashion,Prime,5131.24,4.8,94,Prime Jeans in category Fashion with rating 4.8
+908,Prime Lamp,Home,Prime,2372.85,4.1,150,Prime Lamp in category Home with rating 4.1
+909,Max Keyboard,Electronics,Max,26866.26,4.3,255,Max Keyboard in category Electronics with rating 4.3
+910,TechPro Smartwatch,Electronics,TechPro,9279.48,3.9,163,TechPro Smartwatch in category Electronics with rating 3.9
+911,Ultra Laptop,Electronics,Ultra,33614.26,4.5,19,Ultra Laptop in category Electronics with rating 4.5
+912,Vision Mixer,Home,Vision,19562.77,3.6,131,Vision Mixer in category Home with rating 3.6
+913,Vision T-Shirt,Fashion,Vision,7714.18,3.5,83,Vision T-Shirt in category Fashion with rating 3.5
+914,TechPro Smartwatch,Electronics,TechPro,30620.13,4.5,440,TechPro Smartwatch in category Electronics with rating 4.5
+915,Max Tablet,Electronics,Max,47972.87,4.8,491,Max Tablet in category Electronics with rating 4.8
+916,Max Mixer,Home,Max,11425.72,3.4,244,Max Mixer in category Home with rating 3.4
+917,Elite Watch,Fashion,Elite,15970.07,4.9,372,Elite Watch in category Fashion with rating 4.9
+918,TechPro Cricket Bat,Sports,TechPro,48575.0,4.5,424,TechPro Cricket Bat in category Sports with rating 4.5
+919,Elite Operating Systems,Books,Elite,33234.0,3.4,29,Elite Operating Systems in category Books with rating 3.4
+920,Ultra Operating Systems,Books,Ultra,17399.37,4.0,42,Ultra Operating Systems in category Books with rating 4.0
+921,SmartLife Data Science,Books,SmartLife,20039.44,3.2,430,SmartLife Data Science in category Books with rating 3.2
+922,SmartLife Table,Home,SmartLife,32165.91,4.0,197,SmartLife Table in category Home with rating 4.0
+923,Ultra Lamp,Home,Ultra,23027.35,3.6,459,Ultra Lamp in category Home with rating 3.6
+924,SmartLife Basketball,Sports,SmartLife,20531.71,3.9,128,SmartLife Basketball in category Sports with rating 3.9
+925,Vision Tablet,Electronics,Vision,2109.67,4.3,385,Vision Tablet in category Electronics with rating 4.3
+926,Prime Operating Systems,Books,Prime,15548.14,4.7,66,Prime Operating Systems in category Books with rating 4.7
+927,Prime Table,Home,Prime,13579.6,3.5,290,Prime Table in category Home with rating 3.5
+928,SmartLife Football,Sports,SmartLife,29732.9,4.5,318,SmartLife Football in category Sports with rating 4.5
+929,Elite Keyboard,Electronics,Elite,16265.54,4.7,47,Elite Keyboard in category Electronics with rating 4.7
+930,TechPro Algorithms,Books,TechPro,14912.04,4.7,483,TechPro Algorithms in category Books with rating 4.7
+931,Ultra Monitor,Electronics,Ultra,45185.07,3.2,124,Ultra Monitor in category Electronics with rating 3.2
+932,Vision Yoga Mat,Sports,Vision,18932.3,4.6,280,Vision Yoga Mat in category Sports with rating 4.6
+933,Vision T-Shirt,Fashion,Vision,19422.52,4.4,323,Vision T-Shirt in category Fashion with rating 4.4
+934,Vision Algorithms,Books,Vision,49370.55,4.8,97,Vision Algorithms in category Books with rating 4.8
+935,TechPro Algorithms,Books,TechPro,21524.7,4.2,177,TechPro Algorithms in category Books with rating 4.2
+936,SmartLife Data Science,Books,SmartLife,35875.12,3.2,101,SmartLife Data Science in category Books with rating 3.2
+937,Nova Watch,Fashion,Nova,38984.66,4.8,487,Nova Watch in category Fashion with rating 4.8
+938,SmartLife Mixer,Home,SmartLife,11638.74,4.5,479,SmartLife Mixer in category Home with rating 4.5
+939,SmartLife Table,Home,SmartLife,22447.2,4.1,152,SmartLife Table in category Home with rating 4.1
+940,Elite Lamp,Home,Elite,35363.85,3.5,321,Elite Lamp in category Home with rating 3.5
+941,Elite DBMS,Books,Elite,24762.21,4.7,430,Elite DBMS in category Books with rating 4.7
+942,Vision Monitor,Electronics,Vision,3882.29,4.8,127,Vision Monitor in category Electronics with rating 4.8
+943,Vision Yoga Mat,Sports,Vision,26095.48,4.4,312,Vision Yoga Mat in category Sports with rating 4.4
+944,Vision Lamp,Home,Vision,1545.14,3.8,467,Vision Lamp in category Home with rating 3.8
+945,Elite Table,Home,Elite,11789.6,3.5,190,Elite Table in category Home with rating 3.5
+946,SmartLife Headphones,Electronics,SmartLife,2812.8,3.5,365,SmartLife Headphones in category Electronics with rating 3.5
+947,Vision Operating Systems,Books,Vision,13527.14,4.0,134,Vision Operating Systems in category Books with rating 4.0
+948,Ultra DBMS,Books,Ultra,10606.73,3.3,489,Ultra DBMS in category Books with rating 3.3
+949,Prime Vacuum Cleaner,Home,Prime,33063.39,3.7,483,Prime Vacuum Cleaner in category Home with rating 3.7
+950,Prime Algorithms,Books,Prime,11657.93,3.3,457,Prime Algorithms in category Books with rating 3.3
+951,Vision Tablet,Electronics,Vision,596.19,4.5,16,Vision Tablet in category Electronics with rating 4.5
+952,Ultra Chair,Home,Ultra,27392.53,4.0,464,Ultra Chair in category Home with rating 4.0
+953,TechPro Monitor,Electronics,TechPro,25367.49,4.2,402,TechPro Monitor in category Electronics with rating 4.2
+954,Max DBMS,Books,Max,30143.92,4.6,54,Max DBMS in category Books with rating 4.6
+955,SmartLife Monitor,Electronics,SmartLife,17641.9,3.7,326,SmartLife Monitor in category Electronics with rating 3.7
+956,Max Basketball,Sports,Max,44801.67,3.7,149,Max Basketball in category Sports with rating 3.7
+957,Prime Mouse,Electronics,Prime,24966.76,3.4,21,Prime Mouse in category Electronics with rating 3.4
+958,SmartLife Yoga Mat,Sports,SmartLife,19770.12,4.8,26,SmartLife Yoga Mat in category Sports with rating 4.8
+959,Ultra DBMS,Books,Ultra,15434.54,4.6,55,Ultra DBMS in category Books with rating 4.6
+960,TechPro Chair,Home,TechPro,17944.48,4.9,400,TechPro Chair in category Home with rating 4.9
+961,Prime Sneakers,Fashion,Prime,46530.11,4.3,265,Prime Sneakers in category Fashion with rating 4.3
+962,Prime Vacuum Cleaner,Home,Prime,32747.97,4.2,358,Prime Vacuum Cleaner in category Home with rating 4.2
+963,Ultra Sofa,Home,Ultra,39803.98,3.8,422,Ultra Sofa in category Home with rating 3.8
+964,Elite Smartphone,Electronics,Elite,34664.1,3.1,298,Elite Smartphone in category Electronics with rating 3.1
+965,Vision Operating Systems,Books,Vision,13928.9,3.9,475,Vision Operating Systems in category Books with rating 3.9
+966,Elite Laptop,Electronics,Elite,770.84,3.6,188,Elite Laptop in category Electronics with rating 3.6
+967,SmartLife Mouse,Electronics,SmartLife,6791.57,3.3,26,SmartLife Mouse in category Electronics with rating 3.3
+968,SmartLife Sofa,Home,SmartLife,27277.98,4.3,428,SmartLife Sofa in category Home with rating 4.3
+969,Nova Headphones,Electronics,Nova,11554.48,3.4,160,Nova Headphones in category Electronics with rating 3.4
+970,Prime Watch,Fashion,Prime,44644.8,4.6,465,Prime Watch in category Fashion with rating 4.6
+971,SmartLife DBMS,Books,SmartLife,34046.08,4.0,67,SmartLife DBMS in category Books with rating 4.0
+972,Vision Mouse,Electronics,Vision,19266.71,5.0,156,Vision Mouse in category Electronics with rating 5.0
+973,Ultra Mouse,Electronics,Ultra,49658.71,4.8,154,Ultra Mouse in category Electronics with rating 4.8
+974,Nova Watch,Fashion,Nova,29109.58,4.4,260,Nova Watch in category Fashion with rating 4.4
+975,Nova Lamp,Home,Nova,27165.25,3.1,154,Nova Lamp in category Home with rating 3.1
+976,SmartLife Monitor,Electronics,SmartLife,4312.61,3.5,472,SmartLife Monitor in category Electronics with rating 3.5
+977,TechPro Vacuum Cleaner,Home,TechPro,44122.17,3.9,308,TechPro Vacuum Cleaner in category Home with rating 3.9
+978,SmartLife Laptop,Electronics,SmartLife,34786.53,4.6,343,SmartLife Laptop in category Electronics with rating 4.6
+979,Max Keyboard,Electronics,Max,47495.41,4.2,456,Max Keyboard in category Electronics with rating 4.2
+980,Elite Chair,Home,Elite,3904.1,4.8,336,Elite Chair in category Home with rating 4.8
+981,Prime Algorithms,Books,Prime,26548.52,3.3,154,Prime Algorithms in category Books with rating 3.3
+982,Elite Headphones,Electronics,Elite,6246.2,4.9,428,Elite Headphones in category Electronics with rating 4.9
+983,Vision Vacuum Cleaner,Home,Vision,42343.84,4.4,28,Vision Vacuum Cleaner in category Home with rating 4.4
+984,TechPro Sneakers,Fashion,TechPro,6534.06,3.3,220,TechPro Sneakers in category Fashion with rating 3.3
+985,TechPro Jeans,Fashion,TechPro,2736.65,4.0,263,TechPro Jeans in category Fashion with rating 4.0
+986,Max Vacuum Cleaner,Home,Max,3470.2,3.4,56,Max Vacuum Cleaner in category Home with rating 3.4
+987,Vision Headphones,Electronics,Vision,6344.92,4.9,291,Vision Headphones in category Electronics with rating 4.9
+988,Max Cricket Bat,Sports,Max,13648.52,4.7,224,Max Cricket Bat in category Sports with rating 4.7
+989,Elite Sofa,Home,Elite,29937.57,4.7,208,Elite Sofa in category Home with rating 4.7
+990,Nova Gym Gloves,Sports,Nova,17888.39,3.2,239,Nova Gym Gloves in category Sports with rating 3.2
+991,Prime Vacuum Cleaner,Home,Prime,29228.01,4.8,195,Prime Vacuum Cleaner in category Home with rating 4.8
+992,Vision Cricket Bat,Sports,Vision,14575.66,3.3,165,Vision Cricket Bat in category Sports with rating 3.3
+993,Ultra Chair,Home,Ultra,20493.66,4.5,100,Ultra Chair in category Home with rating 4.5
+994,Nova DBMS,Books,Nova,2360.61,4.8,385,Nova DBMS in category Books with rating 4.8
+995,Elite Watch,Fashion,Elite,11697.98,4.9,349,Elite Watch in category Fashion with rating 4.9
+996,SmartLife Gym Gloves,Sports,SmartLife,32799.88,4.7,177,SmartLife Gym Gloves in category Sports with rating 4.7
+997,Prime Football,Sports,Prime,1776.64,3.1,46,Prime Football in category Sports with rating 3.1
+998,SmartLife Football,Sports,SmartLife,1208.76,3.7,111,SmartLife Football in category Sports with rating 3.7
+999,Nova Yoga Mat,Sports,Nova,48787.04,4.5,108,Nova Yoga Mat in category Sports with rating 4.5
+1000,Max Lamp,Home,Max,37891.03,3.3,297,Max Lamp in category Home with rating 3.3
